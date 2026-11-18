@@ -5,9 +5,9 @@
     {
       "id": "mark.general",
       "name": "Mark General",
-      "version": 1,
+      "version": 2,
       "language": "en",
-      "description": "Starter general knowledge pack.",
+      "description": "General knowledge pack with 1,000 offline question and answer entries.",
       "format": "mark-json-v1",
       "download_url": "https://raw.githubusercontent.com/abdurahm819-collab/Mark-Databases/main/packs/general.json"
     }
