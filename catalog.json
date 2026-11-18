@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-18",
+  "packs": [
+    {
+      "id": "mark.general",
+      "name": "Mark General",
+      "version": 1,
+      "language": "en",
+      "description": "Starter general knowledge pack.",
+      "format": "mark-json-v1",
+      "download_url": "https://raw.githubusercontent.com/abdurahm819-collab/Mark-Databases/main/packs/general.json"
+    }
+  ]
+}
