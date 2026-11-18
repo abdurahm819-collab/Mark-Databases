@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "id": 2,
+    "category": "Geography",
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "id": 3,
+    "category": "Geography",
+    "question": "What is the capital of Italy?",
+    "answer": "Rome"
+  },
+  {
+    "id": 4,
+    "category": "Geography",
+    "question": "What is the capital of Spain?",
+    "answer": "Madrid"
+  },
+  {
+    "id": 5,
+    "category": "Geography",
+    "question": "What is the capital of Portugal?",
+    "answer": "Lisbon"
+  },
+  {
+    "id": 6,
+    "category": "Geography",
+    "question": "What is the capital of United Kingdom?",
+    "answer": "London"
+  },
+  {
+    "id": 7,
+    "category": "Geography",
+    "question": "What is the capital of Ireland?",
+    "answer": "Dublin"
+  },
+  {
+    "id": 8,
+    "category": "Geography",
+    "question": "What is the capital of Netherlands?",
+    "answer": "Amsterdam"
+  },
+  {
+    "id": 9,
+    "category": "Geography",
+    "question": "What is the capital of Belgium?",
+    "answer": "Brussels"
+  },
+  {
+    "id": 10,
+    "category": "Geography",
+    "question": "What is the capital of Switzerland?",
+    "answer": "Bern"
+  },
+  {
+    "id": 11,
+    "category": "Geography",
+    "question": "What is the capital of Austria?",
+    "answer": "Vienna"
+  },
+  {
+    "id": 12,
+    "category": "Geography",
+    "question": "What is the capital of Poland?",
+    "answer": "Warsaw"
+  },
+  {
+    "id": 13,
+    "category": "Geography",
+    "question": "What is the capital of Czech Republic?",
+    "answer": "Prague"
+  },
+  {
+    "id": 14,
+    "category": "Geography",
+    "question": "What is the capital of Hungary?",
+    "answer": "Budapest"
+  },
+  {
+    "id": 15,
+    "category": "Geography",
+    "question": "What is the capital of Greece?",
+    "answer": "Athens"
+  },
+  {
+    "id": 16,
+    "category": "Geography",
+    "question": "What is the capital of Sweden?",
+    "answer": "Stockholm"
+  },
+  {
+    "id": 17,
+    "category": "Geography",
+    "question": "What is the capital of Norway?",
+    "answer": "Oslo"
+  },
+  {
+    "id": 18,
+    "category": "Geography",
+    "question": "What is the capital of Denmark?",
+    "answer": "Copenhagen"
+  },
+  {
+    "id": 19,
+    "category": "Geography",
+    "question": "What is the capital of Finland?",
+    "answer": "Helsinki"
+  },
+  {
+    "id": 20,
+    "category": "Geography",
+    "question": "What is the capital of Iceland?",
+    "answer": "Reykjavik"
+  },
+  {
+    "id": 21,
+    "category": "Geography",
+    "question": "What is the capital of Russia?",
+    "answer": "Moscow"
+  },
+  {
+    "id": 22,
+    "category": "Geography",
+    "question": "What is the capital of Ukraine?",
+    "answer": "Kyiv"
+  },
+  {
+    "id": 23,
+    "category": "Geography",
+    "question": "What is the capital of Romania?",
+    "answer": "Bucharest"
+  },
+  {
+    "id": 24,
+    "category": "Geography",
+    "question": "What is the capital of Bulgaria?",
+    "answer": "Sofia"
+  },
+  {
+    "id": 25,
+    "category": "Geography",
+    "question": "What is the capital of Serbia?",
+    "answer": "Belgrade"
+  },
+  {
+    "id": 26,
+    "category": "Geography",
+    "question": "What is the capital of Croatia?",
+    "answer": "Zagreb"
+  },
+  {
+    "id": 27,
+    "category": "Geography",
+    "question": "What is the capital of Turkey?",
+    "answer": "Ankara"
+  },
+  {
+    "id": 28,
+    "category": "Geography",
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo"
+  },
+  {
+    "id": 29,
+    "category": "Geography",
+    "question": "What is the capital of Morocco?",
+    "answer": "Rabat"
+  },
+  {
+    "id": 30,
+    "category": "Geography",
+    "question": "What is the capital of Algeria?",
+    "answer": "Algiers"
+  },
+  {
+    "id": 31,
+    "category": "Geography",
+    "question": "What is the capital of Tunisia?",
+    "answer": "Tunis"
+  },
+  {
+    "id": 32,
+    "category": "Geography",
+    "question": "What is the capital of Libya?",
+    "answer": "Tripoli"
+  },
+  {
+    "id": 33,
+    "category": "Geography",
+    "question": "What is the capital of Nigeria?",
+    "answer": "Abuja"
+  },
+  {
+    "id": 34,
+    "category": "Geography",
+    "question": "What is the capital of Ghana?",
+    "answer": "Accra"
+  },
+  {
+    "id": 35,
+    "category": "Geography",
+    "question": "What is the capital of Kenya?",
+    "answer": "Nairobi"
+  },
+  {
+    "id": 36,
+    "category": "Geography",
+    "question": "What is the capital of Ethiopia?",
+    "answer": "Addis Ababa"
+  },
+  {
+    "id": 37,
+    "category": "Geography",
+    "question": "What is the capital of Tanzania?",
+    "answer": "Dodoma"
+  },
+  {
+    "id": 38,
+    "category": "Geography",
+    "question": "What is the capital of Uganda?",
+    "answer": "Kampala"
+  },
+  {
+    "id": 39,
+    "category": "Geography",
+    "question": "What is the capital of South Africa?",
+    "answer": "Pretoria"
+  },
+  {
+    "id": 40,
+    "category": "Geography",
+    "question": "What is the capital of Angola?",
+    "answer": "Luanda"
+  },
+  {
+    "id": 41,
+    "category": "Geography",
+    "question": "What is the capital of Senegal?",
+    "answer": "Dakar"
+  },
+  {
+    "id": 42,
+    "category": "Geography",
+    "question": "What is the capital of Sudan?",
+    "answer": "Khartoum"
+  },
+  {
+    "id": 43,
+    "category": "Geography",
+    "question": "What is the capital of Somalia?",
+    "answer": "Mogadishu"
+  },
+  {
+    "id": 44,
+    "category": "Geography",
+    "question": "What is the capital of Zimbabwe?",
+    "answer": "Harare"
+  },
+  {
+    "id": 45,
+    "category": "Geography",
+    "question": "What is the capital of Zambia?",
+    "answer": "Lusaka"
+  },
+  {
+    "id": 46,
+    "category": "Geography",
+    "question": "What is the capital of Mozambique?",
+    "answer": "Maputo"
+  },
+  {
+    "id": 47,
+    "category": "Geography",
+    "question": "What is the capital of Madagascar?",
+    "answer": "Antananarivo"
+  },
+  {
+    "id": 48,
+    "category": "Geography",
+    "question": "What is the capital of Namibia?",
+    "answer": "Windhoek"
+  },
+  {
+    "id": 49,
+    "category": "Geography",
+    "question": "What is the capital of Botswana?",
+    "answer": "Gaborone"
+  },
+  {
+    "id": 50,
+    "category": "Geography",
+    "question": "What is the capital of Rwanda?",
+    "answer": "Kigali"
+  },
+  {
+    "id": 51,
+    "category": "Geography",
+    "question": "What is the capital of Mali?",
+    "answer": "Bamako"
+  },
+  {
+    "id": 52,
+    "category": "Geography",
+    "question": "What is the capital of Niger?",
+    "answer": "Niamey"
+  },
+  {
+    "id": 53,
+    "category": "Geography",
+    "question": "What is the capital of Chad?",
+    "answer": "N'Djamena"
+  },
+  {
+    "id": 54,
+    "category": "Geography",
+    "question": "What is the capital of Cameroon?",
+    "answer": "Yaoundé"
+  },
+  {
+    "id": 55,
+    "category": "Geography",
+    "question": "What is the capital of Saudi Arabia?",
+    "answer": "Riyadh"
+  },
+  {
+    "id": 56,
+    "category": "Geography",
+    "question": "What is the capital of Iran?",
+    "answer": "Tehran"
+  },
+  {
+    "id": 57,
+    "category": "Geography",
+    "question": "What is the capital of Iraq?",
+    "answer": "Baghdad"
+  },
+  {
+    "id": 58,
+    "category": "Geography",
+    "question": "What is the capital of Jordan?",
+    "answer": "Amman"
+  },
+  {
+    "id": 59,
+    "category": "Geography",
+    "question": "What is the capital of Lebanon?",
+    "answer": "Beirut"
+  },
+  {
+    "id": 60,
+    "category": "Geography",
+    "question": "What is the capital of Syria?",
+    "answer": "Damascus"
+  },
+  {
+    "id": 61,
+    "category": "Geography",
+    "question": "What is the capital of Qatar?",
+    "answer": "Doha"
+  },
+  {
+    "id": 62,
+    "category": "Geography",
+    "question": "What is the capital of Kuwait?",
+    "answer": "Kuwait City"
+  },
+  {
+    "id": 63,
+    "category": "Geography",
+    "question": "What is the capital of Oman?",
+    "answer": "Muscat"
+  },
+  {
+    "id": 64,
+    "category": "Geography",
+    "question": "What is the capital of Yemen?",
+    "answer": "Sana'a"
+  },
+  {
+    "id": 65,
+    "category": "Geography",
+    "question": "What is the capital of United Arab Emirates?",
+    "answer": "Abu Dhabi"
+  },
+  {
+    "id": 66,
+    "category": "Geography",
+    "question": "What is the capital of Afghanistan?",
+    "answer": "Kabul"
+  },
+  {
+    "id": 67,
+    "category": "Geography",
+    "question": "What is the capital of Pakistan?",
+    "answer": "Islamabad"
+  },
+  {
+    "id": 68,
+    "category": "Geography",
+    "question": "What is the capital of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "id": 69,
+    "category": "Geography",
+    "question": "What is the capital of Bangladesh?",
+    "answer": "Dhaka"
+  },
+  {
+    "id": 70,
+    "category": "Geography",
+    "question": "What is the capital of Nepal?",
+    "answer": "Kathmandu"
+  },
+  {
+    "id": 71,
+    "category": "Geography",
+    "question": "What is the capital of China?",
+    "answer": "Beijing"
+  },
+  {
+    "id": 72,
+    "category": "Geography",
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 73,
+    "category": "Geography",
+    "question": "What is the capital of South Korea?",
+    "answer": "Seoul"
+  },
+  {
+    "id": 74,
+    "category": "Geography",
+    "question": "What is the capital of North Korea?",
+    "answer": "Pyongyang"
+  },
+  {
+    "id": 75,
+    "category": "Geography",
+    "question": "What is the capital of Mongolia?",
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "id": 76,
+    "category": "Geography",
+    "question": "What is the capital of Thailand?",
+    "answer": "Bangkok"
+  },
+  {
+    "id": 77,
+    "category": "Geography",
+    "question": "What is the capital of Vietnam?",
+    "answer": "Hanoi"
+  },
+  {
+    "id": 78,
+    "category": "Geography",
+    "question": "What is the capital of Cambodia?",
+    "answer": "Phnom Penh"
+  },
+  {
+    "id": 79,
+    "category": "Geography",
+    "question": "What is the capital of Laos?",
+    "answer": "Vientiane"
+  },
+  {
+    "id": 80,
+    "category": "Geography",
+    "question": "What is the capital of Myanmar?",
+    "answer": "Naypyidaw"
+  },
+  {
+    "id": 81,
+    "category": "Geography",
+    "question": "What is the capital of Malaysia?",
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "id": 82,
+    "category": "Geography",
+    "question": "What is the capital of Indonesia?",
+    "answer": "Jakarta"
+  },
+  {
+    "id": 83,
+    "category": "Geography",
+    "question": "What is the capital of Philippines?",
+    "answer": "Manila"
+  },
+  {
+    "id": 84,
+    "category": "Geography",
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "id": 85,
+    "category": "Geography",
+    "question": "What is the capital of New Zealand?",
+    "answer": "Wellington"
+  },
+  {
+    "id": 86,
+    "category": "Geography",
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "id": 87,
+    "category": "Geography",
+    "question": "What is the capital of United States?",
+    "answer": "Washington, D.C."
+  },
+  {
+    "id": 88,
+    "category": "Geography",
+    "question": "What is the capital of Mexico?",
+    "answer": "Mexico City"
+  },
+  {
+    "id": 89,
+    "category": "Geography",
+    "question": "What is the capital of Cuba?",
+    "answer": "Havana"
+  },
+  {
+    "id": 90,
+    "category": "Geography",
+    "question": "What is the capital of Jamaica?",
+    "answer": "Kingston"
+  },
+  {
+    "id": 91,
+    "category": "Geography",
+    "question": "What is the capital of Guatemala?",
+    "answer": "Guatemala City"
+  },
+  {
+    "id": 92,
+    "category": "Geography",
+    "question": "What is the capital of Costa Rica?",
+    "answer": "San José"
+  },
+  {
+    "id": 93,
+    "category": "Geography",
+    "question": "What is the capital of Panama?",
+    "answer": "Panama City"
+  },
+  {
+    "id": 94,
+    "category": "Geography",
+    "question": "What is the capital of Colombia?",
+    "answer": "Bogotá"
+  },
+  {
+    "id": 95,
+    "category": "Geography",
+    "question": "What is the capital of Venezuela?",
+    "answer": "Caracas"
+  },
+  {
+    "id": 96,
+    "category": "Geography",
+    "question": "What is the capital of Ecuador?",
+    "answer": "Quito"
+  },
+  {
+    "id": 97,
+    "category": "Geography",
+    "question": "What is the capital of Peru?",
+    "answer": "Lima"
+  },
+  {
+    "id": 98,
+    "category": "Geography",
+    "question": "What is the capital of Chile?",
+    "answer": "Santiago"
+  },
+  {
+    "id": 99,
+    "category": "Geography",
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires"
+  },
+  {
+    "id": 100,
+    "category": "Geography",
+    "question": "What is the capital of Uruguay?",
+    "answer": "Montevideo"
+  },
+  {
+    "id": 101,
+    "category": "Geography",
+    "question": "What is the capital of Paraguay?",
+    "answer": "Asunción"
+  },
+  {
+    "id": 102,
+    "category": "Geography",
+    "question": "What is the capital of Brazil?",
+    "answer": "Brasília"
+  },
+  {
+    "id": 103,
+    "category": "Geography",
+    "question": "What is the capital of Kazakhstan?",
+    "answer": "Astana"
+  },
+  {
+    "id": 104,
+    "category": "Geography",
+    "question": "What is the capital of Uzbekistan?",
+    "answer": "Tashkent"
+  },
+  {
+    "id": 105,
+    "category": "Geography",
+    "question": "What is the capital of Georgia?",
+    "answer": "Tbilisi"
+  },
+  {
+    "id": 106,
+    "category": "Geography",
+    "question": "What is the capital of Armenia?",
+    "answer": "Yerevan"
+  },
+  {
+    "id": 107,
+    "category": "Geography",
+    "question": "What is the capital of Azerbaijan?",
+    "answer": "Baku"
+  },
+  {
+    "id": 108,
+    "category": "Geography",
+    "question": "What is the capital of Belarus?",
+    "answer": "Minsk"
+  },
+  {
+    "id": 109,
+    "category": "Geography",
+    "question": "What is the capital of Lithuania?",
+    "answer": "Vilnius"
+  },
+  {
+    "id": 110,
+    "category": "Geography",
+    "question": "What is the capital of Latvia?",
+    "answer": "Riga"
+  },
+  {
+    "id": 111,
+    "category": "Geography",
+    "question": "What is the capital of Estonia?",
+    "answer": "Tallinn"
+  },
+  {
+    "id": 112,
+    "category": "Geography",
+    "question": "What is the capital of Slovakia?",
+    "answer": "Bratislava"
+  },
+  {
+    "id": 113,
+    "category": "Geography",
+    "question": "What is the capital of Slovenia?",
+    "answer": "Ljubljana"
+  },
+  {
+    "id": 114,
+    "category": "Geography",
+    "question": "What is the capital of Albania?",
+    "answer": "Tirana"
+  },
+  {
+    "id": 115,
+    "category": "Geography",
+    "question": "What is the capital of North Macedonia?",
+    "answer": "Skopje"
+  },
+  {
+    "id": 116,
+    "category": "Geography",
+    "question": "What is the capital of Cyprus?",
+    "answer": "Nicosia"
+  },
+  {
+    "id": 117,
+    "category": "Geography",
+    "question": "What is the capital of Malta?",
+    "answer": "Valletta"
+  },
+  {
+    "id": 118,
+    "category": "Geography",
+    "question": "What is the capital of Luxembourg?",
+    "answer": "Luxembourg City"
+  },
+  {
+    "id": 119,
+    "category": "Geography",
+    "question": "What is the capital of Haiti?",
+    "answer": "Port-au-Prince"
+  },
+  {
+    "id": 120,
+    "category": "Geography",
+    "question": "What is the capital of Dominican Republic?",
+    "answer": "Santo Domingo"
+  },
+  {
+    "id": 121,
+    "category": "Geography",
+    "question": "What is the capital of Honduras?",
+    "answer": "Tegucigalpa"
+  },
+  {
+    "id": 122,
+    "category": "Geography",
+    "question": "What is the capital of Nicaragua?",
+    "answer": "Managua"
+  },
+  {
+    "id": 123,
+    "category": "Geography",
+    "question": "What is the capital of El Salvador?",
+    "answer": "San Salvador"
+  },
+  {
+    "id": 124,
+    "category": "Geography",
+    "question": "What is the capital of Fiji?",
+    "answer": "Suva"
+  },
+  {
+    "id": 125,
+    "category": "Geography",
+    "question": "What is the capital of Papua New Guinea?",
+    "answer": "Port Moresby"
+  },
+  {
+    "id": 126,
+    "category": "Geography",
+    "question": "What is the capital of Bhutan?",
+    "answer": "Thimphu"
+  },
+  {
+    "id": 127,
+    "category": "Geography",
+    "question": "What is the capital of Maldives?",
+    "answer": "Malé"
+  },
+  {
+    "id": 128,
+    "category": "Geography",
+    "question": "Paris is the capital of which country?",
+    "answer": "France"
+  },
+  {
+    "id": 129,
+    "category": "Geography",
+    "question": "Berlin is the capital of which country?",
+    "answer": "Germany"
+  },
+  {
+    "id": 130,
+    "category": "Geography",
+    "question": "Rome is the capital of which country?",
+    "answer": "Italy"
+  },
+  {
+    "id": 131,
+    "category": "Geography",
+    "question": "Madrid is the capital of which country?",
+    "answer": "Spain"
+  },
+  {
+    "id": 132,
+    "category": "Geography",
+    "question": "Lisbon is the capital of which country?",
+    "answer": "Portugal"
+  },
+  {
+    "id": 133,
+    "category": "Geography",
+    "question": "London is the capital of which country?",
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 134,
+    "category": "Geography",
+    "question": "Dublin is the capital of which country?",
+    "answer": "Ireland"
+  },
+  {
+    "id": 135,
+    "category": "Geography",
+    "question": "Amsterdam is the capital of which country?",
+    "answer": "Netherlands"
+  },
+  {
+    "id": 136,
+    "category": "Geography",
+    "question": "Brussels is the capital of which country?",
+    "answer": "Belgium"
+  },
+  {
+    "id": 137,
+    "category": "Geography",
+    "question": "Bern is the capital of which country?",
+    "answer": "Switzerland"
+  },
+  {
+    "id": 138,
+    "category": "Geography",
+    "question": "Vienna is the capital of which country?",
+    "answer": "Austria"
+  },
+  {
+    "id": 139,
+    "category": "Geography",
+    "question": "Warsaw is the capital of which country?",
+    "answer": "Poland"
+  },
+  {
+    "id": 140,
+    "category": "Geography",
+    "question": "Prague is the capital of which country?",
+    "answer": "Czech Republic"
+  },
+  {
+    "id": 141,
+    "category": "Geography",
+    "question": "Budapest is the capital of which country?",
+    "answer": "Hungary"
+  },
+  {
+    "id": 142,
+    "category": "Geography",
+    "question": "Athens is the capital of which country?",
+    "answer": "Greece"
+  },
+  {
+    "id": 143,
+    "category": "Geography",
+    "question": "Stockholm is the capital of which country?",
+    "answer": "Sweden"
+  },
+  {
+    "id": 144,
+    "category": "Geography",
+    "question": "Oslo is the capital of which country?",
+    "answer": "Norway"
+  },
+  {
+    "id": 145,
+    "category": "Geography",
+    "question": "Copenhagen is the capital of which country?",
+    "answer": "Denmark"
+  },
+  {
+    "id": 146,
+    "category": "Geography",
+    "question": "Helsinki is the capital of which country?",
+    "answer": "Finland"
+  },
+  {
+    "id": 147,
+    "category": "Geography",
+    "question": "Reykjavik is the capital of which country?",
+    "answer": "Iceland"
+  },
+  {
+    "id": 148,
+    "category": "Geography",
+    "question": "Moscow is the capital of which country?",
+    "answer": "Russia"
+  },
+  {
+    "id": 149,
+    "category": "Geography",
+    "question": "Kyiv is the capital of which country?",
+    "answer": "Ukraine"
+  },
+  {
+    "id": 150,
+    "category": "Geography",
+    "question": "Bucharest is the capital of which country?",
+    "answer": "Romania"
+  },
+  {
+    "id": 151,
+    "category": "Geography",
+    "question": "Sofia is the capital of which country?",
+    "answer": "Bulgaria"
+  },
+  {
+    "id": 152,
+    "category": "Geography",
+    "question": "Belgrade is the capital of which country?",
+    "answer": "Serbia"
+  },
+  {
+    "id": 153,
+    "category": "Geography",
+    "question": "Zagreb is the capital of which country?",
+    "answer": "Croatia"
+  },
+  {
+    "id": 154,
+    "category": "Geography",
+    "question": "Ankara is the capital of which country?",
+    "answer": "Turkey"
+  },
+  {
+    "id": 155,
+    "category": "Geography",
+    "question": "Cairo is the capital of which country?",
+    "answer": "Egypt"
+  },
+  {
+    "id": 156,
+    "category": "Geography",
+    "question": "Rabat is the capital of which country?",
+    "answer": "Morocco"
+  },
+  {
+    "id": 157,
+    "category": "Geography",
+    "question": "Algiers is the capital of which country?",
+    "answer": "Algeria"
+  },
+  {
+    "id": 158,
+    "category": "Geography",
+    "question": "Tunis is the capital of which country?",
+    "answer": "Tunisia"
+  },
+  {
+    "id": 159,
+    "category": "Geography",
+    "question": "Tripoli is the capital of which country?",
+    "answer": "Libya"
+  },
+  {
+    "id": 160,
+    "category": "Geography",
+    "question": "Abuja is the capital of which country?",
+    "answer": "Nigeria"
+  },
+  {
+    "id": 161,
+    "category": "Geography",
+    "question": "Accra is the capital of which country?",
+    "answer": "Ghana"
+  },
+  {
+    "id": 162,
+    "category": "Geography",
+    "question": "Nairobi is the capital of which country?",
+    "answer": "Kenya"
+  },
+  {
+    "id": 163,
+    "category": "Geography",
+    "question": "Addis Ababa is the capital of which country?",
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 164,
+    "category": "Geography",
+    "question": "Dodoma is the capital of which country?",
+    "answer": "Tanzania"
+  },
+  {
+    "id": 165,
+    "category": "Geography",
+    "question": "Kampala is the capital of which country?",
+    "answer": "Uganda"
+  },
+  {
+    "id": 166,
+    "category": "Geography",
+    "question": "Pretoria is the capital of which country?",
+    "answer": "South Africa"
+  },
+  {
+    "id": 167,
+    "category": "Geography",
+    "question": "Luanda is the capital of which country?",
+    "answer": "Angola"
+  },
+  {
+    "id": 168,
+    "category": "Geography",
+    "question": "Dakar is the capital of which country?",
+    "answer": "Senegal"
+  },
+  {
+    "id": 169,
+    "category": "Geography",
+    "question": "Khartoum is the capital of which country?",
+    "answer": "Sudan"
+  },
+  {
+    "id": 170,
+    "category": "Geography",
+    "question": "Mogadishu is the capital of which country?",
+    "answer": "Somalia"
+  },
+  {
+    "id": 171,
+    "category": "Geography",
+    "question": "Harare is the capital of which country?",
+    "answer": "Zimbabwe"
+  },
+  {
+    "id": 172,
+    "category": "Geography",
+    "question": "Lusaka is the capital of which country?",
+    "answer": "Zambia"
+  },
+  {
+    "id": 173,
+    "category": "Geography",
+    "question": "Maputo is the capital of which country?",
+    "answer": "Mozambique"
+  },
+  {
+    "id": 174,
+    "category": "Geography",
+    "question": "Antananarivo is the capital of which country?",
+    "answer": "Madagascar"
+  },
+  {
+    "id": 175,
+    "category": "Geography",
+    "question": "Windhoek is the capital of which country?",
+    "answer": "Namibia"
+  },
+  {
+    "id": 176,
+    "category": "Geography",
+    "question": "Gaborone is the capital of which country?",
+    "answer": "Botswana"
+  },
+  {
+    "id": 177,
+    "category": "Geography",
+    "question": "Kigali is the capital of which country?",
+    "answer": "Rwanda"
+  },
+  {
+    "id": 178,
+    "category": "Geography",
+    "question": "Bamako is the capital of which country?",
+    "answer": "Mali"
+  },
+  {
+    "id": 179,
+    "category": "Geography",
+    "question": "Niamey is the capital of which country?",
+    "answer": "Niger"
+  },
+  {
+    "id": 180,
+    "category": "Geography",
+    "question": "N'Djamena is the capital of which country?",
+    "answer": "Chad"
+  },
+  {
+    "id": 181,
+    "category": "Geography",
+    "question": "Yaoundé is the capital of which country?",
+    "answer": "Cameroon"
+  },
+  {
+    "id": 182,
+    "category": "Geography",
+    "question": "Riyadh is the capital of which country?",
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 183,
+    "category": "Geography",
+    "question": "Tehran is the capital of which country?",
+    "answer": "Iran"
+  },
+  {
+    "id": 184,
+    "category": "Geography",
+    "question": "Baghdad is the capital of which country?",
+    "answer": "Iraq"
+  },
+  {
+    "id": 185,
+    "category": "Geography",
+    "question": "Amman is the capital of which country?",
+    "answer": "Jordan"
+  },
+  {
+    "id": 186,
+    "category": "Geography",
+    "question": "Beirut is the capital of which country?",
+    "answer": "Lebanon"
+  },
+  {
+    "id": 187,
+    "category": "Geography",
+    "question": "Damascus is the capital of which country?",
+    "answer": "Syria"
+  },
+  {
+    "id": 188,
+    "category": "Geography",
+    "question": "Doha is the capital of which country?",
+    "answer": "Qatar"
+  },
+  {
+    "id": 189,
+    "category": "Geography",
+    "question": "Kuwait City is the capital of which country?",
+    "answer": "Kuwait"
+  },
+  {
+    "id": 190,
+    "category": "Geography",
+    "question": "Muscat is the capital of which country?",
+    "answer": "Oman"
+  },
+  {
+    "id": 191,
+    "category": "Geography",
+    "question": "Sana'a is the capital of which country?",
+    "answer": "Yemen"
+  },
+  {
+    "id": 192,
+    "category": "Geography",
+    "question": "Abu Dhabi is the capital of which country?",
+    "answer": "United Arab Emirates"
+  },
+  {
+    "id": 193,
+    "category": "Geography",
+    "question": "Kabul is the capital of which country?",
+    "answer": "Afghanistan"
+  },
+  {
+    "id": 194,
+    "category": "Geography",
+    "question": "Islamabad is the capital of which country?",
+    "answer": "Pakistan"
+  },
+  {
+    "id": 195,
+    "category": "Geography",
+    "question": "New Delhi is the capital of which country?",
+    "answer": "India"
+  },
+  {
+    "id": 196,
+    "category": "Geography",
+    "question": "Dhaka is the capital of which country?",
+    "answer": "Bangladesh"
+  },
+  {
+    "id": 197,
+    "category": "Geography",
+    "question": "Kathmandu is the capital of which country?",
+    "answer": "Nepal"
+  },
+  {
+    "id": 198,
+    "category": "Geography",
+    "question": "Beijing is the capital of which country?",
+    "answer": "China"
+  },
+  {
+    "id": 199,
+    "category": "Geography",
+    "question": "Tokyo is the capital of which country?",
+    "answer": "Japan"
+  },
+  {
+    "id": 200,
+    "category": "Geography",
+    "question": "Seoul is the capital of which country?",
+    "answer": "South Korea"
+  },
+  {
+    "id": 201,
+    "category": "Geography",
+    "question": "Pyongyang is the capital of which country?",
+    "answer": "North Korea"
+  },
+  {
+    "id": 202,
+    "category": "Geography",
+    "question": "Ulaanbaatar is the capital of which country?",
+    "answer": "Mongolia"
+  },
+  {
+    "id": 203,
+    "category": "Geography",
+    "question": "Bangkok is the capital of which country?",
+    "answer": "Thailand"
+  },
+  {
+    "id": 204,
+    "category": "Geography",
+    "question": "Hanoi is the capital of which country?",
+    "answer": "Vietnam"
+  },
+  {
+    "id": 205,
+    "category": "Geography",
+    "question": "Phnom Penh is the capital of which country?",
+    "answer": "Cambodia"
+  },
+  {
+    "id": 206,
+    "category": "Geography",
+    "question": "Vientiane is the capital of which country?",
+    "answer": "Laos"
+  },
+  {
+    "id": 207,
+    "category": "Geography",
+    "question": "Naypyidaw is the capital of which country?",
+    "answer": "Myanmar"
+  },
+  {
+    "id": 208,
+    "category": "Geography",
+    "question": "Kuala Lumpur is the capital of which country?",
+    "answer": "Malaysia"
+  },
+  {
+    "id": 209,
+    "category": "Geography",
+    "question": "Jakarta is the capital of which country?",
+    "answer": "Indonesia"
+  },
+  {
+    "id": 210,
+    "category": "Geography",
+    "question": "Manila is the capital of which country?",
+    "answer": "Philippines"
+  },
+  {
+    "id": 211,
+    "category": "Geography",
+    "question": "Canberra is the capital of which country?",
+    "answer": "Australia"
+  },
+  {
+    "id": 212,
+    "category": "Geography",
+    "question": "Wellington is the capital of which country?",
+    "answer": "New Zealand"
+  },
+  {
+    "id": 213,
+    "category": "Geography",
+    "question": "Ottawa is the capital of which country?",
+    "answer": "Canada"
+  },
+  {
+    "id": 214,
+    "category": "Geography",
+    "question": "Washington, D.C. is the capital of which country?",
+    "answer": "United States"
+  },
+  {
+    "id": 215,
+    "category": "Geography",
+    "question": "Mexico City is the capital of which country?",
+    "answer": "Mexico"
+  },
+  {
+    "id": 216,
+    "category": "Geography",
+    "question": "Havana is the capital of which country?",
+    "answer": "Cuba"
+  },
+  {
+    "id": 217,
+    "category": "Geography",
+    "question": "Kingston is the capital of which country?",
+    "answer": "Jamaica"
+  },
+  {
+    "id": 218,
+    "category": "Geography",
+    "question": "Guatemala City is the capital of which country?",
+    "answer": "Guatemala"
+  },
+  {
+    "id": 219,
+    "category": "Geography",
+    "question": "San José is the capital of which country?",
+    "answer": "Costa Rica"
+  },
+  {
+    "id": 220,
+    "category": "Geography",
+    "question": "Panama City is the capital of which country?",
+    "answer": "Panama"
+  },
+  {
+    "id": 221,
+    "category": "Geography",
+    "question": "Bogotá is the capital of which country?",
+    "answer": "Colombia"
+  },
+  {
+    "id": 222,
+    "category": "Geography",
+    "question": "Caracas is the capital of which country?",
+    "answer": "Venezuela"
+  },
+  {
+    "id": 223,
+    "category": "Geography",
+    "question": "Quito is the capital of which country?",
+    "answer": "Ecuador"
+  },
+  {
+    "id": 224,
+    "category": "Geography",
+    "question": "Lima is the capital of which country?",
+    "answer": "Peru"
+  },
+  {
+    "id": 225,
+    "category": "Geography",
+    "question": "Santiago is the capital of which country?",
+    "answer": "Chile"
+  },
+  {
+    "id": 226,
+    "category": "Geography",
+    "question": "Buenos Aires is the capital of which country?",
+    "answer": "Argentina"
+  },
+  {
+    "id": 227,
+    "category": "Geography",
+    "question": "Montevideo is the capital of which country?",
+    "answer": "Uruguay"
+  },
+  {
+    "id": 228,
+    "category": "Geography",
+    "question": "Asunción is the capital of which country?",
+    "answer": "Paraguay"
+  },
+  {
+    "id": 229,
+    "category": "Geography",
+    "question": "Brasília is the capital of which country?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 230,
+    "category": "Geography",
+    "question": "Astana is the capital of which country?",
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 231,
+    "category": "Geography",
+    "question": "Tashkent is the capital of which country?",
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": 232,
+    "category": "Geography",
+    "question": "Tbilisi is the capital of which country?",
+    "answer": "Georgia"
+  },
+  {
+    "id": 233,
+    "category": "Geography",
+    "question": "Yerevan is the capital of which country?",
+    "answer": "Armenia"
+  },
+  {
+    "id": 234,
+    "category": "Geography",
+    "question": "Baku is the capital of which country?",
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": 235,
+    "category": "Geography",
+    "question": "Minsk is the capital of which country?",
+    "answer": "Belarus"
+  },
+  {
+    "id": 236,
+    "category": "Geography",
+    "question": "Vilnius is the capital of which country?",
+    "answer": "Lithuania"
+  },
+  {
+    "id": 237,
+    "category": "Geography",
+    "question": "Riga is the capital of which country?",
+    "answer": "Latvia"
+  },
+  {
+    "id": 238,
+    "category": "Geography",
+    "question": "Tallinn is the capital of which country?",
+    "answer": "Estonia"
+  },
+  {
+    "id": 239,
+    "category": "Geography",
+    "question": "Bratislava is the capital of which country?",
+    "answer": "Slovakia"
+  },
+  {
+    "id": 240,
+    "category": "Geography",
+    "question": "Ljubljana is the capital of which country?",
+    "answer": "Slovenia"
+  },
+  {
+    "id": 241,
+    "category": "Geography",
+    "question": "Tirana is the capital of which country?",
+    "answer": "Albania"
+  },
+  {
+    "id": 242,
+    "category": "Geography",
+    "question": "Skopje is the capital of which country?",
+    "answer": "North Macedonia"
+  },
+  {
+    "id": 243,
+    "category": "Geography",
+    "question": "Nicosia is the capital of which country?",
+    "answer": "Cyprus"
+  },
+  {
+    "id": 244,
+    "category": "Geography",
+    "question": "Valletta is the capital of which country?",
+    "answer": "Malta"
+  },
+  {
+    "id": 245,
+    "category": "Geography",
+    "question": "Luxembourg City is the capital of which country?",
+    "answer": "Luxembourg"
+  },
+  {
+    "id": 246,
+    "category": "Geography",
+    "question": "Port-au-Prince is the capital of which country?",
+    "answer": "Haiti"
+  },
+  {
+    "id": 247,
+    "category": "Geography",
+    "question": "Santo Domingo is the capital of which country?",
+    "answer": "Dominican Republic"
+  },
+  {
+    "id": 248,
+    "category": "Geography",
+    "question": "Tegucigalpa is the capital of which country?",
+    "answer": "Honduras"
+  },
+  {
+    "id": 249,
+    "category": "Geography",
+    "question": "Managua is the capital of which country?",
+    "answer": "Nicaragua"
+  },
+  {
+    "id": 250,
+    "category": "Geography",
+    "question": "San Salvador is the capital of which country?",
+    "answer": "El Salvador"
+  },
+  {
+    "id": 251,
+    "category": "Geography",
+    "question": "Suva is the capital of which country?",
+    "answer": "Fiji"
+  },
+  {
+    "id": 252,
+    "category": "Geography",
+    "question": "Port Moresby is the capital of which country?",
+    "answer": "Papua New Guinea"
+  },
+  {
+    "id": 253,
+    "category": "Geography",
+    "question": "Thimphu is the capital of which country?",
+    "answer": "Bhutan"
+  },
+  {
+    "id": 254,
+    "category": "Geography",
+    "question": "Malé is the capital of which country?",
+    "answer": "Maldives"
+  },
+  {
+    "id": 255,
+    "category": "Geography",
+    "question": "What is the official currency of Japan?",
+    "answer": "Yen"
+  },
+  {
+    "id": 256,
+    "category": "Geography",
+    "question": "What is the official currency of United Kingdom?",
+    "answer": "Pound sterling"
+  },
+  {
+    "id": 257,
+    "category": "Geography",
+    "question": "What is the official currency of India?",
+    "answer": "Indian rupee"
+  },
+  {
+    "id": 258,
+    "category": "Geography",
+    "question": "What is the official currency of China?",
+    "answer": "Renminbi (yuan)"
+  },
+  {
+    "id": 259,
+    "category": "Geography",
+    "question": "What is the official currency of Russia?",
+    "answer": "Russian ruble"
+  },
+  {
+    "id": 260,
+    "category": "Geography",
+    "question": "What is the official currency of Brazil?",
+    "answer": "Real"
+  },
+  {
+    "id": 261,
+    "category": "Geography",
+    "question": "What is the official currency of Mexico?",
+    "answer": "Mexican peso"
+  },
+  {
+    "id": 262,
+    "category": "Geography",
+    "question": "What is the official currency of South Korea?",
+    "answer": "South Korean won"
+  },
+  {
+    "id": 263,
+    "category": "Geography",
+    "question": "What is the official currency of Switzerland?",
+    "answer": "Swiss franc"
+  },
+  {
+    "id": 264,
+    "category": "Geography",
+    "question": "What is the official currency of Sweden?",
+    "answer": "Swedish krona"
+  },
+  {
+    "id": 265,
+    "category": "Geography",
+    "question": "What is the official currency of Norway?",
+    "answer": "Norwegian krone"
+  },
+  {
+    "id": 266,
+    "category": "Geography",
+    "question": "What is the official currency of Denmark?",
+    "answer": "Danish krone"
+  },
+  {
+    "id": 267,
+    "category": "Geography",
+    "question": "What is the official currency of Poland?",
+    "answer": "Złoty"
+  },
+  {
+    "id": 268,
+    "category": "Geography",
+    "question": "What is the official currency of Turkey?",
+    "answer": "Turkish lira"
+  },
+  {
+    "id": 269,
+    "category": "Geography",
+    "question": "What is the official currency of South Africa?",
+    "answer": "Rand"
+  },
+  {
+    "id": 270,
+    "category": "Geography",
+    "question": "What is the official currency of Egypt?",
+    "answer": "Egyptian pound"
+  },
+  {
+    "id": 271,
+    "category": "Geography",
+    "question": "What is the official currency of Nigeria?",
+    "answer": "Naira"
+  },
+  {
+    "id": 272,
+    "category": "Geography",
+    "question": "What is the official currency of Kenya?",
+    "answer": "Kenyan shilling"
+  },
+  {
+    "id": 273,
+    "category": "Geography",
+    "question": "What is the official currency of Saudi Arabia?",
+    "answer": "Saudi riyal"
+  },
+  {
+    "id": 274,
+    "category": "Geography",
+    "question": "What is the official currency of Israel?",
+    "answer": "New shekel"
+  },
+  {
+    "id": 275,
+    "category": "Geography",
+    "question": "What is the official currency of Thailand?",
+    "answer": "Baht"
+  },
+  {
+    "id": 276,
+    "category": "Geography",
+    "question": "What is the official currency of Vietnam?",
+    "answer": "Dong"
+  },
+  {
+    "id": 277,
+    "category": "Geography",
+    "question": "What is the official currency of Indonesia?",
+    "answer": "Rupiah"
+  },
+  {
+    "id": 278,
+    "category": "Geography",
+    "question": "What is the official currency of Malaysia?",
+    "answer": "Ringgit"
+  },
+  {
+    "id": 279,
+    "category": "Geography",
+    "question": "What is the official currency of Philippines?",
+    "answer": "Philippine peso"
+  },
+  {
+    "id": 280,
+    "category": "Geography",
+    "question": "What is the official currency of Pakistan?",
+    "answer": "Pakistani rupee"
+  },
+  {
+    "id": 281,
+    "category": "Geography",
+    "question": "What is the official currency of Bangladesh?",
+    "answer": "Taka"
+  },
+  {
+    "id": 282,
+    "category": "Geography",
+    "question": "What is the official currency of Australia?",
+    "answer": "Australian dollar"
+  },
+  {
+    "id": 283,
+    "category": "Geography",
+    "question": "What is the official currency of Canada?",
+    "answer": "Canadian dollar"
+  },
+  {
+    "id": 284,
+    "category": "Geography",
+    "question": "What is the official currency of Hungary?",
+    "answer": "Forint"
+  },
+  {
+    "id": 285,
+    "category": "Geography",
+    "question": "What is the official currency of Czech Republic?",
+    "answer": "Koruna"
+  },
+  {
+    "id": 286,
+    "category": "Geography",
+    "question": "What is the official currency of Argentina?",
+    "answer": "Argentine peso"
+  },
+  {
+    "id": 287,
+    "category": "Geography",
+    "question": "What is the official currency of Chile?",
+    "answer": "Chilean peso"
+  },
+  {
+    "id": 288,
+    "category": "Geography",
+    "question": "What is the official currency of Colombia?",
+    "answer": "Colombian peso"
+  },
+  {
+    "id": 289,
+    "category": "Geography",
+    "question": "What is the official currency of Peru?",
+    "answer": "Sol"
+  },
+  {
+    "id": 290,
+    "category": "Geography",
+    "question": "What is the official currency of Ukraine?",
+    "answer": "Hryvnia"
+  },
+  {
+    "id": 291,
+    "category": "Geography",
+    "question": "What is the official currency of Ghana?",
+    "answer": "Cedi"
+  },
+  {
+    "id": 292,
+    "category": "Geography",
+    "question": "What is the official currency of Morocco?",
+    "answer": "Moroccan dirham"
+  },
+  {
+    "id": 293,
+    "category": "Geography",
+    "question": "What is the official currency of United Arab Emirates?",
+    "answer": "UAE dirham"
+  },
+  {
+    "id": 294,
+    "category": "Geography",
+    "question": "What is the official currency of Cambodia?",
+    "answer": "Riel"
+  },
+  {
+    "id": 295,
+    "category": "Geography",
+    "question": "What is the official currency of Ethiopia?",
+    "answer": "Birr"
+  },
+  {
+    "id": 296,
+    "category": "Geography",
+    "question": "What is the official currency of Guatemala?",
+    "answer": "Quetzal"
+  },
+  {
+    "id": 297,
+    "category": "Geography",
+    "question": "What is the official currency of Mongolia?",
+    "answer": "Tögrög"
+  },
+  {
+    "id": 298,
+    "category": "Geography",
+    "question": "What is the official currency of Nepal?",
+    "answer": "Nepalese rupee"
+  },
+  {
+    "id": 299,
+    "category": "Geography",
+    "question": "What is the official currency of Laos?",
+    "answer": "Kip"
+  },
+  {
+    "id": 300,
+    "category": "Geography",
+    "question": "What is the official currency of Myanmar?",
+    "answer": "Kyat"
+  },
+  {
+    "id": 301,
+    "category": "Geography",
+    "question": "What is the official currency of Tanzania?",
+    "answer": "Tanzanian shilling"
+  },
+  {
+    "id": 302,
+    "category": "Geography",
+    "question": "What is the official currency of Sri Lanka?",
+    "answer": "Sri Lankan rupee"
+  },
+  {
+    "id": 303,
+    "category": "Science",
+    "question": "What is the chemical symbol for hydrogen?",
+    "answer": "H"
+  },
+  {
+    "id": 304,
+    "category": "Science",
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "id": 305,
+    "category": "Science",
+    "question": "Which chemical element has the symbol H?",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 306,
+    "category": "Science",
+    "question": "What is the chemical symbol for helium?",
+    "answer": "He"
+  },
+  {
+    "id": 307,
+    "category": "Science",
+    "question": "What is the atomic number of helium?",
+    "answer": "2"
+  },
+  {
+    "id": 308,
+    "category": "Science",
+    "question": "Which chemical element has the symbol He?",
+    "answer": "Helium"
+  },
+  {
+    "id": 309,
+    "category": "Science",
+    "question": "What is the chemical symbol for lithium?",
+    "answer": "Li"
+  },
+  {
+    "id": 310,
+    "category": "Science",
+    "question": "What is the atomic number of lithium?",
+    "answer": "3"
+  },
+  {
+    "id": 311,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Li?",
+    "answer": "Lithium"
+  },
+  {
+    "id": 312,
+    "category": "Science",
+    "question": "What is the chemical symbol for beryllium?",
+    "answer": "Be"
+  },
+  {
+    "id": 313,
+    "category": "Science",
+    "question": "What is the atomic number of beryllium?",
+    "answer": "4"
+  },
+  {
+    "id": 314,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Be?",
+    "answer": "Beryllium"
+  },
+  {
+    "id": 315,
+    "category": "Science",
+    "question": "What is the chemical symbol for boron?",
+    "answer": "B"
+  },
+  {
+    "id": 316,
+    "category": "Science",
+    "question": "What is the atomic number of boron?",
+    "answer": "5"
+  },
+  {
+    "id": 317,
+    "category": "Science",
+    "question": "Which chemical element has the symbol B?",
+    "answer": "Boron"
+  },
+  {
+    "id": 318,
+    "category": "Science",
+    "question": "What is the chemical symbol for carbon?",
+    "answer": "C"
+  },
+  {
+    "id": 319,
+    "category": "Science",
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "id": 320,
+    "category": "Science",
+    "question": "Which chemical element has the symbol C?",
+    "answer": "Carbon"
+  },
+  {
+    "id": 321,
+    "category": "Science",
+    "question": "What is the chemical symbol for nitrogen?",
+    "answer": "N"
+  },
+  {
+    "id": 322,
+    "category": "Science",
+    "question": "What is the atomic number of nitrogen?",
+    "answer": "7"
+  },
+  {
+    "id": 323,
+    "category": "Science",
+    "question": "Which chemical element has the symbol N?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 324,
+    "category": "Science",
+    "question": "What is the chemical symbol for oxygen?",
+    "answer": "O"
+  },
+  {
+    "id": 325,
+    "category": "Science",
+    "question": "What is the atomic number of oxygen?",
+    "answer": "8"
+  },
+  {
+    "id": 326,
+    "category": "Science",
+    "question": "Which chemical element has the symbol O?",
+    "answer": "Oxygen"
+  },
+  {
+    "id": 327,
+    "category": "Science",
+    "question": "What is the chemical symbol for fluorine?",
+    "answer": "F"
+  },
+  {
+    "id": 328,
+    "category": "Science",
+    "question": "What is the atomic number of fluorine?",
+    "answer": "9"
+  },
+  {
+    "id": 329,
+    "category": "Science",
+    "question": "Which chemical element has the symbol F?",
+    "answer": "Fluorine"
+  },
+  {
+    "id": 330,
+    "category": "Science",
+    "question": "What is the chemical symbol for neon?",
+    "answer": "Ne"
+  },
+  {
+    "id": 331,
+    "category": "Science",
+    "question": "What is the atomic number of neon?",
+    "answer": "10"
+  },
+  {
+    "id": 332,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ne?",
+    "answer": "Neon"
+  },
+  {
+    "id": 333,
+    "category": "Science",
+    "question": "What is the chemical symbol for sodium?",
+    "answer": "Na"
+  },
+  {
+    "id": 334,
+    "category": "Science",
+    "question": "What is the atomic number of sodium?",
+    "answer": "11"
+  },
+  {
+    "id": 335,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Na?",
+    "answer": "Sodium"
+  },
+  {
+    "id": 336,
+    "category": "Science",
+    "question": "What is the chemical symbol for magnesium?",
+    "answer": "Mg"
+  },
+  {
+    "id": 337,
+    "category": "Science",
+    "question": "What is the atomic number of magnesium?",
+    "answer": "12"
+  },
+  {
+    "id": 338,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Mg?",
+    "answer": "Magnesium"
+  },
+  {
+    "id": 339,
+    "category": "Science",
+    "question": "What is the chemical symbol for aluminium?",
+    "answer": "Al"
+  },
+  {
+    "id": 340,
+    "category": "Science",
+    "question": "What is the atomic number of aluminium?",
+    "answer": "13"
+  },
+  {
+    "id": 341,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Al?",
+    "answer": "Aluminium"
+  },
+  {
+    "id": 342,
+    "category": "Science",
+    "question": "What is the chemical symbol for silicon?",
+    "answer": "Si"
+  },
+  {
+    "id": 343,
+    "category": "Science",
+    "question": "What is the atomic number of silicon?",
+    "answer": "14"
+  },
+  {
+    "id": 344,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Si?",
+    "answer": "Silicon"
+  },
+  {
+    "id": 345,
+    "category": "Science",
+    "question": "What is the chemical symbol for phosphorus?",
+    "answer": "P"
+  },
+  {
+    "id": 346,
+    "category": "Science",
+    "question": "What is the atomic number of phosphorus?",
+    "answer": "15"
+  },
+  {
+    "id": 347,
+    "category": "Science",
+    "question": "Which chemical element has the symbol P?",
+    "answer": "Phosphorus"
+  },
+  {
+    "id": 348,
+    "category": "Science",
+    "question": "What is the chemical symbol for sulfur?",
+    "answer": "S"
+  },
+  {
+    "id": 349,
+    "category": "Science",
+    "question": "What is the atomic number of sulfur?",
+    "answer": "16"
+  },
+  {
+    "id": 350,
+    "category": "Science",
+    "question": "Which chemical element has the symbol S?",
+    "answer": "Sulfur"
+  },
+  {
+    "id": 351,
+    "category": "Science",
+    "question": "What is the chemical symbol for chlorine?",
+    "answer": "Cl"
+  },
+  {
+    "id": 352,
+    "category": "Science",
+    "question": "What is the atomic number of chlorine?",
+    "answer": "17"
+  },
+  {
+    "id": 353,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Cl?",
+    "answer": "Chlorine"
+  },
+  {
+    "id": 354,
+    "category": "Science",
+    "question": "What is the chemical symbol for argon?",
+    "answer": "Ar"
+  },
+  {
+    "id": 355,
+    "category": "Science",
+    "question": "What is the atomic number of argon?",
+    "answer": "18"
+  },
+  {
+    "id": 356,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ar?",
+    "answer": "Argon"
+  },
+  {
+    "id": 357,
+    "category": "Science",
+    "question": "What is the chemical symbol for potassium?",
+    "answer": "K"
+  },
+  {
+    "id": 358,
+    "category": "Science",
+    "question": "What is the atomic number of potassium?",
+    "answer": "19"
+  },
+  {
+    "id": 359,
+    "category": "Science",
+    "question": "Which chemical element has the symbol K?",
+    "answer": "Potassium"
+  },
+  {
+    "id": 360,
+    "category": "Science",
+    "question": "What is the chemical symbol for calcium?",
+    "answer": "Ca"
+  },
+  {
+    "id": 361,
+    "category": "Science",
+    "question": "What is the atomic number of calcium?",
+    "answer": "20"
+  },
+  {
+    "id": 362,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ca?",
+    "answer": "Calcium"
+  },
+  {
+    "id": 363,
+    "category": "Science",
+    "question": "What is the chemical symbol for titanium?",
+    "answer": "Ti"
+  },
+  {
+    "id": 364,
+    "category": "Science",
+    "question": "What is the atomic number of titanium?",
+    "answer": "22"
+  },
+  {
+    "id": 365,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ti?",
+    "answer": "Titanium"
+  },
+  {
+    "id": 366,
+    "category": "Science",
+    "question": "What is the chemical symbol for chromium?",
+    "answer": "Cr"
+  },
+  {
+    "id": 367,
+    "category": "Science",
+    "question": "What is the atomic number of chromium?",
+    "answer": "24"
+  },
+  {
+    "id": 368,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Cr?",
+    "answer": "Chromium"
+  },
+  {
+    "id": 369,
+    "category": "Science",
+    "question": "What is the chemical symbol for manganese?",
+    "answer": "Mn"
+  },
+  {
+    "id": 370,
+    "category": "Science",
+    "question": "What is the atomic number of manganese?",
+    "answer": "25"
+  },
+  {
+    "id": 371,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Mn?",
+    "answer": "Manganese"
+  },
+  {
+    "id": 372,
+    "category": "Science",
+    "question": "What is the chemical symbol for iron?",
+    "answer": "Fe"
+  },
+  {
+    "id": 373,
+    "category": "Science",
+    "question": "What is the atomic number of iron?",
+    "answer": "26"
+  },
+  {
+    "id": 374,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Fe?",
+    "answer": "Iron"
+  },
+  {
+    "id": 375,
+    "category": "Science",
+    "question": "What is the chemical symbol for cobalt?",
+    "answer": "Co"
+  },
+  {
+    "id": 376,
+    "category": "Science",
+    "question": "What is the atomic number of cobalt?",
+    "answer": "27"
+  },
+  {
+    "id": 377,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Co?",
+    "answer": "Cobalt"
+  },
+  {
+    "id": 378,
+    "category": "Science",
+    "question": "What is the chemical symbol for nickel?",
+    "answer": "Ni"
+  },
+  {
+    "id": 379,
+    "category": "Science",
+    "question": "What is the atomic number of nickel?",
+    "answer": "28"
+  },
+  {
+    "id": 380,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ni?",
+    "answer": "Nickel"
+  },
+  {
+    "id": 381,
+    "category": "Science",
+    "question": "What is the chemical symbol for copper?",
+    "answer": "Cu"
+  },
+  {
+    "id": 382,
+    "category": "Science",
+    "question": "What is the atomic number of copper?",
+    "answer": "29"
+  },
+  {
+    "id": 383,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Cu?",
+    "answer": "Copper"
+  },
+  {
+    "id": 384,
+    "category": "Science",
+    "question": "What is the chemical symbol for zinc?",
+    "answer": "Zn"
+  },
+  {
+    "id": 385,
+    "category": "Science",
+    "question": "What is the atomic number of zinc?",
+    "answer": "30"
+  },
+  {
+    "id": 386,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Zn?",
+    "answer": "Zinc"
+  },
+  {
+    "id": 387,
+    "category": "Science",
+    "question": "What is the chemical symbol for gallium?",
+    "answer": "Ga"
+  },
+  {
+    "id": 388,
+    "category": "Science",
+    "question": "What is the atomic number of gallium?",
+    "answer": "31"
+  },
+  {
+    "id": 389,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ga?",
+    "answer": "Gallium"
+  },
+  {
+    "id": 390,
+    "category": "Science",
+    "question": "What is the chemical symbol for arsenic?",
+    "answer": "As"
+  },
+  {
+    "id": 391,
+    "category": "Science",
+    "question": "What is the atomic number of arsenic?",
+    "answer": "33"
+  },
+  {
+    "id": 392,
+    "category": "Science",
+    "question": "Which chemical element has the symbol As?",
+    "answer": "Arsenic"
+  },
+  {
+    "id": 393,
+    "category": "Science",
+    "question": "What is the chemical symbol for selenium?",
+    "answer": "Se"
+  },
+  {
+    "id": 394,
+    "category": "Science",
+    "question": "What is the atomic number of selenium?",
+    "answer": "34"
+  },
+  {
+    "id": 395,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Se?",
+    "answer": "Selenium"
+  },
+  {
+    "id": 396,
+    "category": "Science",
+    "question": "What is the chemical symbol for bromine?",
+    "answer": "Br"
+  },
+  {
+    "id": 397,
+    "category": "Science",
+    "question": "What is the atomic number of bromine?",
+    "answer": "35"
+  },
+  {
+    "id": 398,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Br?",
+    "answer": "Bromine"
+  },
+  {
+    "id": 399,
+    "category": "Science",
+    "question": "What is the chemical symbol for krypton?",
+    "answer": "Kr"
+  },
+  {
+    "id": 400,
+    "category": "Science",
+    "question": "What is the atomic number of krypton?",
+    "answer": "36"
+  },
+  {
+    "id": 401,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Kr?",
+    "answer": "Krypton"
+  },
+  {
+    "id": 402,
+    "category": "Science",
+    "question": "What is the chemical symbol for silver?",
+    "answer": "Ag"
+  },
+  {
+    "id": 403,
+    "category": "Science",
+    "question": "What is the atomic number of silver?",
+    "answer": "47"
+  },
+  {
+    "id": 404,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ag?",
+    "answer": "Silver"
+  },
+  {
+    "id": 405,
+    "category": "Science",
+    "question": "What is the chemical symbol for cadmium?",
+    "answer": "Cd"
+  },
+  {
+    "id": 406,
+    "category": "Science",
+    "question": "What is the atomic number of cadmium?",
+    "answer": "48"
+  },
+  {
+    "id": 407,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Cd?",
+    "answer": "Cadmium"
+  },
+  {
+    "id": 408,
+    "category": "Science",
+    "question": "What is the chemical symbol for tin?",
+    "answer": "Sn"
+  },
+  {
+    "id": 409,
+    "category": "Science",
+    "question": "What is the atomic number of tin?",
+    "answer": "50"
+  },
+  {
+    "id": 410,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Sn?",
+    "answer": "Tin"
+  },
+  {
+    "id": 411,
+    "category": "Science",
+    "question": "What is the chemical symbol for antimony?",
+    "answer": "Sb"
+  },
+  {
+    "id": 412,
+    "category": "Science",
+    "question": "What is the atomic number of antimony?",
+    "answer": "51"
+  },
+  {
+    "id": 413,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Sb?",
+    "answer": "Antimony"
+  },
+  {
+    "id": 414,
+    "category": "Science",
+    "question": "What is the chemical symbol for iodine?",
+    "answer": "I"
+  },
+  {
+    "id": 415,
+    "category": "Science",
+    "question": "What is the atomic number of iodine?",
+    "answer": "53"
+  },
+  {
+    "id": 416,
+    "category": "Science",
+    "question": "Which chemical element has the symbol I?",
+    "answer": "Iodine"
+  },
+  {
+    "id": 417,
+    "category": "Science",
+    "question": "What is the chemical symbol for xenon?",
+    "answer": "Xe"
+  },
+  {
+    "id": 418,
+    "category": "Science",
+    "question": "What is the atomic number of xenon?",
+    "answer": "54"
+  },
+  {
+    "id": 419,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Xe?",
+    "answer": "Xenon"
+  },
+  {
+    "id": 420,
+    "category": "Science",
+    "question": "What is the chemical symbol for caesium?",
+    "answer": "Cs"
+  },
+  {
+    "id": 421,
+    "category": "Science",
+    "question": "What is the atomic number of caesium?",
+    "answer": "55"
+  },
+  {
+    "id": 422,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Cs?",
+    "answer": "Caesium"
+  },
+  {
+    "id": 423,
+    "category": "Science",
+    "question": "What is the chemical symbol for barium?",
+    "answer": "Ba"
+  },
+  {
+    "id": 424,
+    "category": "Science",
+    "question": "What is the atomic number of barium?",
+    "answer": "56"
+  },
+  {
+    "id": 425,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ba?",
+    "answer": "Barium"
+  },
+  {
+    "id": 426,
+    "category": "Science",
+    "question": "What is the chemical symbol for tungsten?",
+    "answer": "W"
+  },
+  {
+    "id": 427,
+    "category": "Science",
+    "question": "What is the atomic number of tungsten?",
+    "answer": "74"
+  },
+  {
+    "id": 428,
+    "category": "Science",
+    "question": "Which chemical element has the symbol W?",
+    "answer": "Tungsten"
+  },
+  {
+    "id": 429,
+    "category": "Science",
+    "question": "What is the chemical symbol for platinum?",
+    "answer": "Pt"
+  },
+  {
+    "id": 430,
+    "category": "Science",
+    "question": "What is the atomic number of platinum?",
+    "answer": "78"
+  },
+  {
+    "id": 431,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Pt?",
+    "answer": "Platinum"
+  },
+  {
+    "id": 432,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "id": 433,
+    "category": "Science",
+    "question": "What is the atomic number of gold?",
+    "answer": "79"
+  },
+  {
+    "id": 434,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Au?",
+    "answer": "Gold"
+  },
+  {
+    "id": 435,
+    "category": "Science",
+    "question": "What is the chemical symbol for mercury?",
+    "answer": "Hg"
+  },
+  {
+    "id": 436,
+    "category": "Science",
+    "question": "What is the atomic number of mercury?",
+    "answer": "80"
+  },
+  {
+    "id": 437,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Hg?",
+    "answer": "Mercury"
+  },
+  {
+    "id": 438,
+    "category": "Science",
+    "question": "What is the chemical symbol for lead?",
+    "answer": "Pb"
+  },
+  {
+    "id": 439,
+    "category": "Science",
+    "question": "What is the atomic number of lead?",
+    "answer": "82"
+  },
+  {
+    "id": 440,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Pb?",
+    "answer": "Lead"
+  },
+  {
+    "id": 441,
+    "category": "Science",
+    "question": "What is the chemical symbol for radon?",
+    "answer": "Rn"
+  },
+  {
+    "id": 442,
+    "category": "Science",
+    "question": "What is the atomic number of radon?",
+    "answer": "86"
+  },
+  {
+    "id": 443,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Rn?",
+    "answer": "Radon"
+  },
+  {
+    "id": 444,
+    "category": "Science",
+    "question": "What is the chemical symbol for radium?",
+    "answer": "Ra"
+  },
+  {
+    "id": 445,
+    "category": "Science",
+    "question": "What is the atomic number of radium?",
+    "answer": "88"
+  },
+  {
+    "id": 446,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Ra?",
+    "answer": "Radium"
+  },
+  {
+    "id": 447,
+    "category": "Science",
+    "question": "What is the chemical symbol for uranium?",
+    "answer": "U"
+  },
+  {
+    "id": 448,
+    "category": "Science",
+    "question": "What is the atomic number of uranium?",
+    "answer": "92"
+  },
+  {
+    "id": 449,
+    "category": "Science",
+    "question": "Which chemical element has the symbol U?",
+    "answer": "Uranium"
+  },
+  {
+    "id": 450,
+    "category": "Science",
+    "question": "What is the chemical symbol for plutonium?",
+    "answer": "Pu"
+  },
+  {
+    "id": 451,
+    "category": "Science",
+    "question": "What is the atomic number of plutonium?",
+    "answer": "94"
+  },
+  {
+    "id": 452,
+    "category": "Science",
+    "question": "Which chemical element has the symbol Pu?",
+    "answer": "Plutonium"
+  },
+  {
+    "id": 453,
+    "category": "Literature",
+    "question": "Who wrote “Hamlet”?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 454,
+    "category": "Literature",
+    "question": "Who wrote “Macbeth”?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 455,
+    "category": "Literature",
+    "question": "Who wrote “Romeo and Juliet”?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 456,
+    "category": "Literature",
+    "question": "Who wrote “Othello”?",
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 457,
+    "category": "Literature",
+    "question": "Who wrote “Pride and Prejudice”?",
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 458,
+    "category": "Literature",
+    "question": "Who wrote “1984”?",
+    "answer": "George Orwell"
+  },
+  {
+    "id": 459,
+    "category": "Literature",
+    "question": "Who wrote “Animal Farm”?",
+    "answer": "George Orwell"
+  },
+  {
+    "id": 460,
+    "category": "Literature",
+    "question": "Who wrote “The Great Gatsby”?",
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 461,
+    "category": "Literature",
+    "question": "Who wrote “Moby-Dick”?",
+    "answer": "Herman Melville"
+  },
+  {
+    "id": 462,
+    "category": "Literature",
+    "question": "Who wrote “War and Peace”?",
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": 463,
+    "category": "Literature",
+    "question": "Who wrote “Anna Karenina”?",
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": 464,
+    "category": "Literature",
+    "question": "Who wrote “Crime and Punishment”?",
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 465,
+    "category": "Literature",
+    "question": "Who wrote “The Odyssey”?",
+    "answer": "Homer"
+  },
+  {
+    "id": 466,
+    "category": "Literature",
+    "question": "Who wrote “The Iliad”?",
+    "answer": "Homer"
+  },
+  {
+    "id": 467,
+    "category": "Literature",
+    "question": "Who wrote “Don Quixote”?",
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": 468,
+    "category": "Literature",
+    "question": "Who wrote “Les Misérables”?",
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": 469,
+    "category": "Literature",
+    "question": "Who wrote “The Divine Comedy”?",
+    "answer": "Dante Alighieri"
+  },
+  {
+    "id": 470,
+    "category": "Literature",
+    "question": "Who wrote “Frankenstein”?",
+    "answer": "Mary Shelley"
+  },
+  {
+    "id": 471,
+    "category": "Literature",
+    "question": "Who wrote “Dracula”?",
+    "answer": "Bram Stoker"
+  },
+  {
+    "id": 472,
+    "category": "Literature",
+    "question": "Who wrote “Great Expectations”?",
+    "answer": "Charles Dickens"
+  },
+  {
+    "id": 473,
+    "category": "Literature",
+    "question": "Who wrote “A Tale of Two Cities”?",
+    "answer": "Charles Dickens"
+  },
+  {
+    "id": 474,
+    "category": "Literature",
+    "question": "Who wrote “Oliver Twist”?",
+    "answer": "Charles Dickens"
+  },
+  {
+    "id": 475,
+    "category": "Literature",
+    "question": "Who wrote “Jane Eyre”?",
+    "answer": "Charlotte Brontë"
+  },
+  {
+    "id": 476,
+    "category": "Literature",
+    "question": "Who wrote “Wuthering Heights”?",
+    "answer": "Emily Brontë"
+  },
+  {
+    "id": 477,
+    "category": "Literature",
+    "question": "Who wrote “The Catcher in the Rye”?",
+    "answer": "J. D. Salinger"
+  },
+  {
+    "id": 478,
+    "category": "Literature",
+    "question": "Who wrote “To Kill a Mockingbird”?",
+    "answer": "Harper Lee"
+  },
+  {
+    "id": 479,
+    "category": "Literature",
+    "question": "Who wrote “The Hobbit”?",
+    "answer": "J. R. R. Tolkien"
+  },
+  {
+    "id": 480,
+    "category": "Literature",
+    "question": "Who wrote “The Lord of the Rings”?",
+    "answer": "J. R. R. Tolkien"
+  },
+  {
+    "id": 481,
+    "category": "Literature",
+    "question": "Who wrote “Harry Potter and the Philosopher's Stone”?",
+    "answer": "J. K. Rowling"
+  },
+  {
+    "id": 482,
+    "category": "Literature",
+    "question": "Who wrote “The Alchemist”?",
+    "answer": "Paulo Coelho"
+  },
+  {
+    "id": 483,
+    "category": "Literature",
+    "question": "Who wrote “One Hundred Years of Solitude”?",
+    "answer": "Gabriel García Márquez"
+  },
+  {
+    "id": 484,
+    "category": "Literature",
+    "question": "Who wrote “The Old Man and the Sea”?",
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": 485,
+    "category": "Literature",
+    "question": "Who wrote “Brave New World”?",
+    "answer": "Aldous Huxley"
+  },
+  {
+    "id": 486,
+    "category": "Literature",
+    "question": "Who wrote “Lord of the Flies”?",
+    "answer": "William Golding"
+  },
+  {
+    "id": 487,
+    "category": "Literature",
+    "question": "Who wrote “The Adventures of Tom Sawyer”?",
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 488,
+    "category": "Literature",
+    "question": "Who wrote “Alice's Adventures in Wonderland”?",
+    "answer": "Lewis Carroll"
+  },
+  {
+    "id": 489,
+    "category": "Literature",
+    "question": "Who wrote “Gulliver's Travels”?",
+    "answer": "Jonathan Swift"
+  },
+  {
+    "id": 490,
+    "category": "Literature",
+    "question": "Who wrote “Robinson Crusoe”?",
+    "answer": "Daniel Defoe"
+  },
+  {
+    "id": 491,
+    "category": "Literature",
+    "question": "Who wrote “The Picture of Dorian Gray”?",
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": 492,
+    "category": "Literature",
+    "question": "Who wrote “The Metamorphosis”?",
+    "answer": "Franz Kafka"
+  },
+  {
+    "id": 493,
+    "category": "Literature",
+    "question": "Who wrote “The Stranger”?",
+    "answer": "Albert Camus"
+  },
+  {
+    "id": 494,
+    "category": "Literature",
+    "question": "Who wrote “Things Fall Apart”?",
+    "answer": "Chinua Achebe"
+  },
+  {
+    "id": 495,
+    "category": "Literature",
+    "question": "Who wrote “The Little Prince”?",
+    "answer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": 496,
+    "category": "Literature",
+    "question": "Who wrote “The Count of Monte Cristo”?",
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "id": 497,
+    "category": "Literature",
+    "question": "Who wrote “Fahrenheit 451”?",
+    "answer": "Ray Bradbury"
+  },
+  {
+    "id": 498,
+    "category": "Literature",
+    "question": "Who wrote “Dune”?",
+    "answer": "Frank Herbert"
+  },
+  {
+    "id": 499,
+    "category": "Literature",
+    "question": "Who wrote “Ulysses”?",
+    "answer": "James Joyce"
+  },
+  {
+    "id": 500,
+    "category": "Literature",
+    "question": "Who wrote “Madame Bovary”?",
+    "answer": "Gustave Flaubert"
+  },
+  {
+    "id": 501,
+    "category": "Literature",
+    "question": "Who wrote “Paradise Lost”?",
+    "answer": "John Milton"
+  },
+  {
+    "id": 502,
+    "category": "Literature",
+    "question": "Who wrote “The Canterbury Tales”?",
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": 503,
+    "category": "Literature",
+    "question": "Who wrote “Heart of Darkness”?",
+    "answer": "Joseph Conrad"
+  },
+  {
+    "id": 504,
+    "category": "Literature",
+    "question": "Who wrote “The Hunger Games”?",
+    "answer": "Suzanne Collins"
+  },
+  {
+    "id": 505,
+    "category": "Literature",
+    "question": "Who wrote “The Diary of a Young Girl”?",
+    "answer": "Anne Frank"
+  },
+  {
+    "id": 506,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Alabama?",
+    "answer": "Montgomery"
+  },
+  {
+    "id": 507,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Alaska?",
+    "answer": "Juneau"
+  },
+  {
+    "id": 508,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Arizona?",
+    "answer": "Phoenix"
+  },
+  {
+    "id": 509,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Arkansas?",
+    "answer": "Little Rock"
+  },
+  {
+    "id": 510,
+    "category": "Geography",
+    "question": "What is the capital of the US state of California?",
+    "answer": "Sacramento"
+  },
+  {
+    "id": 511,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Colorado?",
+    "answer": "Denver"
+  },
+  {
+    "id": 512,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Connecticut?",
+    "answer": "Hartford"
+  },
+  {
+    "id": 513,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Delaware?",
+    "answer": "Dover"
+  },
+  {
+    "id": 514,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Florida?",
+    "answer": "Tallahassee"
+  },
+  {
+    "id": 515,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Georgia?",
+    "answer": "Atlanta"
+  },
+  {
+    "id": 516,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Hawaii?",
+    "answer": "Honolulu"
+  },
+  {
+    "id": 517,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Idaho?",
+    "answer": "Boise"
+  },
+  {
+    "id": 518,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Illinois?",
+    "answer": "Springfield"
+  },
+  {
+    "id": 519,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Indiana?",
+    "answer": "Indianapolis"
+  },
+  {
+    "id": 520,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Iowa?",
+    "answer": "Des Moines"
+  },
+  {
+    "id": 521,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Kansas?",
+    "answer": "Topeka"
+  },
+  {
+    "id": 522,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Kentucky?",
+    "answer": "Frankfort"
+  },
+  {
+    "id": 523,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Louisiana?",
+    "answer": "Baton Rouge"
+  },
+  {
+    "id": 524,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Maine?",
+    "answer": "Augusta"
+  },
+  {
+    "id": 525,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Maryland?",
+    "answer": "Annapolis"
+  },
+  {
+    "id": 526,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Massachusetts?",
+    "answer": "Boston"
+  },
+  {
+    "id": 527,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Michigan?",
+    "answer": "Lansing"
+  },
+  {
+    "id": 528,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Minnesota?",
+    "answer": "Saint Paul"
+  },
+  {
+    "id": 529,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Mississippi?",
+    "answer": "Jackson"
+  },
+  {
+    "id": 530,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Missouri?",
+    "answer": "Jefferson City"
+  },
+  {
+    "id": 531,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Montana?",
+    "answer": "Helena"
+  },
+  {
+    "id": 532,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Nebraska?",
+    "answer": "Lincoln"
+  },
+  {
+    "id": 533,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Nevada?",
+    "answer": "Carson City"
+  },
+  {
+    "id": 534,
+    "category": "Geography",
+    "question": "What is the capital of the US state of New Hampshire?",
+    "answer": "Concord"
+  },
+  {
+    "id": 535,
+    "category": "Geography",
+    "question": "What is the capital of the US state of New Jersey?",
+    "answer": "Trenton"
+  },
+  {
+    "id": 536,
+    "category": "Geography",
+    "question": "What is the capital of the US state of New Mexico?",
+    "answer": "Santa Fe"
+  },
+  {
+    "id": 537,
+    "category": "Geography",
+    "question": "What is the capital of the US state of New York?",
+    "answer": "Albany"
+  },
+  {
+    "id": 538,
+    "category": "Geography",
+    "question": "What is the capital of the US state of North Carolina?",
+    "answer": "Raleigh"
+  },
+  {
+    "id": 539,
+    "category": "Geography",
+    "question": "What is the capital of the US state of North Dakota?",
+    "answer": "Bismarck"
+  },
+  {
+    "id": 540,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Ohio?",
+    "answer": "Columbus"
+  },
+  {
+    "id": 541,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Oklahoma?",
+    "answer": "Oklahoma City"
+  },
+  {
+    "id": 542,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Oregon?",
+    "answer": "Salem"
+  },
+  {
+    "id": 543,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Pennsylvania?",
+    "answer": "Harrisburg"
+  },
+  {
+    "id": 544,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Rhode Island?",
+    "answer": "Providence"
+  },
+  {
+    "id": 545,
+    "category": "Geography",
+    "question": "What is the capital of the US state of South Carolina?",
+    "answer": "Columbia"
+  },
+  {
+    "id": 546,
+    "category": "Geography",
+    "question": "What is the capital of the US state of South Dakota?",
+    "answer": "Pierre"
+  },
+  {
+    "id": 547,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Tennessee?",
+    "answer": "Nashville"
+  },
+  {
+    "id": 548,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Texas?",
+    "answer": "Austin"
+  },
+  {
+    "id": 549,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Utah?",
+    "answer": "Salt Lake City"
+  },
+  {
+    "id": 550,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Vermont?",
+    "answer": "Montpelier"
+  },
+  {
+    "id": 551,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Virginia?",
+    "answer": "Richmond"
+  },
+  {
+    "id": 552,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Washington?",
+    "answer": "Olympia"
+  },
+  {
+    "id": 553,
+    "category": "Geography",
+    "question": "What is the capital of the US state of West Virginia?",
+    "answer": "Charleston"
+  },
+  {
+    "id": 554,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Wisconsin?",
+    "answer": "Madison"
+  },
+  {
+    "id": 555,
+    "category": "Geography",
+    "question": "What is the capital of the US state of Wyoming?",
+    "answer": "Cheyenne"
+  },
+  {
+    "id": 556,
+    "category": "History",
+    "question": "Who was the 1st president of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "id": 557,
+    "category": "History",
+    "question": "Who was the 2nd president of the United States?",
+    "answer": "John Adams"
+  },
+  {
+    "id": 558,
+    "category": "History",
+    "question": "Who was the 3rd president of the United States?",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": 559,
+    "category": "History",
+    "question": "Who was the 4th president of the United States?",
+    "answer": "James Madison"
+  },
+  {
+    "id": 560,
+    "category": "History",
+    "question": "Who was the 5th president of the United States?",
+    "answer": "James Monroe"
+  },
+  {
+    "id": 561,
+    "category": "History",
+    "question": "Who was the 6th president of the United States?",
+    "answer": "John Quincy Adams"
+  },
+  {
+    "id": 562,
+    "category": "History",
+    "question": "Who was the 7th president of the United States?",
+    "answer": "Andrew Jackson"
+  },
+  {
+    "id": 563,
+    "category": "History",
+    "question": "Who was the 8th president of the United States?",
+    "answer": "Martin Van Buren"
+  },
+  {
+    "id": 564,
+    "category": "History",
+    "question": "Who was the 9th president of the United States?",
+    "answer": "William Henry Harrison"
+  },
+  {
+    "id": 565,
+    "category": "History",
+    "question": "Who was the 10th president of the United States?",
+    "answer": "John Tyler"
+  },
+  {
+    "id": 566,
+    "category": "History",
+    "question": "Who was the 11th president of the United States?",
+    "answer": "James K. Polk"
+  },
+  {
+    "id": 567,
+    "category": "History",
+    "question": "Who was the 12th president of the United States?",
+    "answer": "Zachary Taylor"
+  },
+  {
+    "id": 568,
+    "category": "History",
+    "question": "Who was the 13th president of the United States?",
+    "answer": "Millard Fillmore"
+  },
+  {
+    "id": 569,
+    "category": "History",
+    "question": "Who was the 14th president of the United States?",
+    "answer": "Franklin Pierce"
+  },
+  {
+    "id": 570,
+    "category": "History",
+    "question": "Who was the 15th president of the United States?",
+    "answer": "James Buchanan"
+  },
+  {
+    "id": 571,
+    "category": "History",
+    "question": "Who was the 16th president of the United States?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "id": 572,
+    "category": "History",
+    "question": "Who was the 17th president of the United States?",
+    "answer": "Andrew Johnson"
+  },
+  {
+    "id": 573,
+    "category": "History",
+    "question": "Who was the 18th president of the United States?",
+    "answer": "Ulysses S. Grant"
+  },
+  {
+    "id": 574,
+    "category": "History",
+    "question": "Who was the 19th president of the United States?",
+    "answer": "Rutherford B. Hayes"
+  },
+  {
+    "id": 575,
+    "category": "History",
+    "question": "Who was the 20th president of the United States?",
+    "answer": "James A. Garfield"
+  },
+  {
+    "id": 576,
+    "category": "History",
+    "question": "Who was the 26th president of the United States?",
+    "answer": "Theodore Roosevelt"
+  },
+  {
+    "id": 577,
+    "category": "History",
+    "question": "Who was the 32nd president of the United States?",
+    "answer": "Franklin D. Roosevelt"
+  },
+  {
+    "id": 578,
+    "category": "History",
+    "question": "Who was the 34th president of the United States?",
+    "answer": "Dwight D. Eisenhower"
+  },
+  {
+    "id": 579,
+    "category": "History",
+    "question": "Who was the 35th president of the United States?",
+    "answer": "John F. Kennedy"
+  },
+  {
+    "id": 580,
+    "category": "History",
+    "question": "Who was the 36th president of the United States?",
+    "answer": "Lyndon B. Johnson"
+  },
+  {
+    "id": 581,
+    "category": "History",
+    "question": "Who was the 37th president of the United States?",
+    "answer": "Richard Nixon"
+  },
+  {
+    "id": 582,
+    "category": "History",
+    "question": "Who was the 40th president of the United States?",
+    "answer": "Ronald Reagan"
+  },
+  {
+    "id": 583,
+    "category": "History",
+    "question": "Who was the 42nd president of the United States?",
+    "answer": "Bill Clinton"
+  },
+  {
+    "id": 584,
+    "category": "History",
+    "question": "Who was the 43rd president of the United States?",
+    "answer": "George W. Bush"
+  },
+  {
+    "id": 585,
+    "category": "History",
+    "question": "Who was the 44th president of the United States?",
+    "answer": "Barack Obama"
+  },
+  {
+    "id": 586,
+    "category": "History",
+    "question": "Who was the 46th president of the United States?",
+    "answer": "Joe Biden"
+  },
+  {
+    "id": 587,
+    "category": "Sports",
+    "question": "Which country won the 1930 FIFA World Cup?",
+    "answer": "Uruguay"
+  },
+  {
+    "id": 588,
+    "category": "Sports",
+    "question": "Which country won the 1934 FIFA World Cup?",
+    "answer": "Italy"
+  },
+  {
+    "id": 589,
+    "category": "Sports",
+    "question": "Which country won the 1938 FIFA World Cup?",
+    "answer": "Italy"
+  },
+  {
+    "id": 590,
+    "category": "Sports",
+    "question": "Which country won the 1950 FIFA World Cup?",
+    "answer": "Uruguay"
+  },
+  {
+    "id": 591,
+    "category": "Sports",
+    "question": "Which country won the 1954 FIFA World Cup?",
+    "answer": "West Germany"
+  },
+  {
+    "id": 592,
+    "category": "Sports",
+    "question": "Which country won the 1958 FIFA World Cup?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 593,
+    "category": "Sports",
+    "question": "Which country won the 1962 FIFA World Cup?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 594,
+    "category": "Sports",
+    "question": "Which country won the 1966 FIFA World Cup?",
+    "answer": "England"
+  },
+  {
+    "id": 595,
+    "category": "Sports",
+    "question": "Which country won the 1970 FIFA World Cup?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 596,
+    "category": "Sports",
+    "question": "Which country won the 1974 FIFA World Cup?",
+    "answer": "West Germany"
+  },
+  {
+    "id": 597,
+    "category": "Sports",
+    "question": "Which country won the 1978 FIFA World Cup?",
+    "answer": "Argentina"
+  },
+  {
+    "id": 598,
+    "category": "Sports",
+    "question": "Which country won the 1982 FIFA World Cup?",
+    "answer": "Italy"
+  },
+  {
+    "id": 599,
+    "category": "Sports",
+    "question": "Which country won the 1986 FIFA World Cup?",
+    "answer": "Argentina"
+  },
+  {
+    "id": 600,
+    "category": "Sports",
+    "question": "Which country won the 1990 FIFA World Cup?",
+    "answer": "West Germany"
+  },
+  {
+    "id": 601,
+    "category": "Sports",
+    "question": "Which country won the 1994 FIFA World Cup?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 602,
+    "category": "Sports",
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "answer": "France"
+  },
+  {
+    "id": 603,
+    "category": "Sports",
+    "question": "Which country won the 2002 FIFA World Cup?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 604,
+    "category": "Sports",
+    "question": "Which country won the 2006 FIFA World Cup?",
+    "answer": "Italy"
+  },
+  {
+    "id": 605,
+    "category": "Sports",
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "answer": "Spain"
+  },
+  {
+    "id": 606,
+    "category": "Sports",
+    "question": "Which country won the 2014 FIFA World Cup?",
+    "answer": "Germany"
+  },
+  {
+    "id": 607,
+    "category": "Sports",
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "answer": "France"
+  },
+  {
+    "id": 608,
+    "category": "Sports",
+    "question": "Which country won the 2022 FIFA World Cup?",
+    "answer": "Argentina"
+  },
+  {
+    "id": 609,
+    "category": "Sports",
+    "question": "Which city hosted the 1948 Summer Olympics?",
+    "answer": "London"
+  },
+  {
+    "id": 610,
+    "category": "Sports",
+    "question": "Which city hosted the 1952 Summer Olympics?",
+    "answer": "Helsinki"
+  },
+  {
+    "id": 611,
+    "category": "Sports",
+    "question": "Which city hosted the 1956 Summer Olympics?",
+    "answer": "Melbourne"
+  },
+  {
+    "id": 612,
+    "category": "Sports",
+    "question": "Which city hosted the 1960 Summer Olympics?",
+    "answer": "Rome"
+  },
+  {
+    "id": 613,
+    "category": "Sports",
+    "question": "Which city hosted the 1964 Summer Olympics?",
+    "answer": "Tokyo"
+  },
+  {
+    "id": 614,
+    "category": "Sports",
+    "question": "Which city hosted the 1968 Summer Olympics?",
+    "answer": "Mexico City"
+  },
+  {
+    "id": 615,
+    "category": "Sports",
+    "question": "Which city hosted the 1972 Summer Olympics?",
+    "answer": "Munich"
+  },
+  {
+    "id": 616,
+    "category": "Sports",
+    "question": "Which city hosted the 1976 Summer Olympics?",
+    "answer": "Montreal"
+  },
+  {
+    "id": 617,
+    "category": "Sports",
+    "question": "Which city hosted the 1980 Summer Olympics?",
+    "answer": "Moscow"
+  },
+  {
+    "id": 618,
+    "category": "Sports",
+    "question": "Which city hosted the 1984 Summer Olympics?",
+    "answer": "Los Angeles"
+  },
+  {
+    "id": 619,
+    "category": "Sports",
+    "question": "Which city hosted the 1988 Summer Olympics?",
+    "answer": "Seoul"
+  },
+  {
+    "id": 620,
+    "category": "Sports",
+    "question": "Which city hosted the 1992 Summer Olympics?",
+    "answer": "Barcelona"
+  },
+  {
+    "id": 621,
+    "category": "Sports",
+    "question": "Which city hosted the 1996 Summer Olympics?",
+    "answer": "Atlanta"
+  },
+  {
+    "id": 622,
+    "category": "Sports",
+    "question": "Which city hosted the 2000 Summer Olympics?",
+    "answer": "Sydney"
+  },
+  {
+    "id": 623,
+    "category": "Sports",
+    "question": "Which city hosted the 2004 Summer Olympics?",
+    "answer": "Athens"
+  },
+  {
+    "id": 624,
+    "category": "Sports",
+    "question": "Which city hosted the 2008 Summer Olympics?",
+    "answer": "Beijing"
+  },
+  {
+    "id": 625,
+    "category": "Sports",
+    "question": "Which city hosted the 2012 Summer Olympics?",
+    "answer": "London"
+  },
+  {
+    "id": 626,
+    "category": "Sports",
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "id": 627,
+    "category": "Sports",
+    "question": "Which city hosted the 2020 Summer Olympics?",
+    "answer": "Tokyo (held in 2021)"
+  },
+  {
+    "id": 628,
+    "category": "Sports",
+    "question": "Which city hosted the 2024 Summer Olympics?",
+    "answer": "Paris"
+  },
+  {
+    "id": 629,
+    "category": "Science",
+    "question": "What is the powerhouse of the cell?",
+    "answer": "The mitochondrion"
+  },
+  {
+    "id": 630,
+    "category": "Science",
+    "question": "Which gas do plants absorb for photosynthesis?",
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 631,
+    "category": "Science",
+    "question": "What is the chemical formula for water?",
+    "answer": "H2O"
+  },
+  {
+    "id": 632,
+    "category": "Science",
+    "question": "What is the chemical formula for table salt?",
+    "answer": "NaCl"
+  },
+  {
+    "id": 633,
+    "category": "Science",
+    "question": "What is the hardest natural substance?",
+    "answer": "Diamond"
+  },
+  {
+    "id": 634,
+    "category": "Science",
+    "question": "Approximately how fast does light travel in a vacuum?",
+    "answer": "About 299,792 km/s (roughly 300,000 km/s)"
+  },
+  {
+    "id": 635,
+    "category": "Science",
+    "question": "What is the closest star to Earth?",
+    "answer": "The Sun"
+  },
+  {
+    "id": 636,
+    "category": "Science",
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter"
+  },
+  {
+    "id": 637,
+    "category": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "id": 638,
+    "category": "Science",
+    "question": "Which planet is famous for its prominent rings?",
+    "answer": "Saturn"
+  },
+  {
+    "id": 639,
+    "category": "Science",
+    "question": "What is the smallest planet in our solar system?",
+    "answer": "Mercury"
+  },
+  {
+    "id": 640,
+    "category": "Science",
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "id": 641,
+    "category": "Science",
+    "question": "Which planet is the hottest?",
+    "answer": "Venus"
+  },
+  {
+    "id": 642,
+    "category": "Science",
+    "question": "Which planet rotates on its side?",
+    "answer": "Uranus"
+  },
+  {
+    "id": 643,
+    "category": "Science",
+    "question": "Which planet is farthest from the Sun?",
+    "answer": "Neptune"
+  },
+  {
+    "id": 644,
+    "category": "Science",
+    "question": "What is the name of Earth's natural satellite?",
+    "answer": "The Moon"
+  },
+  {
+    "id": 645,
+    "category": "Science",
+    "question": "What force keeps planets in orbit around the Sun?",
+    "answer": "Gravity"
+  },
+  {
+    "id": 646,
+    "category": "Science",
+    "question": "Who developed the theory of general relativity?",
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 647,
+    "category": "Science",
+    "question": "Who formulated the laws of motion and universal gravitation?",
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 648,
+    "category": "Science",
+    "question": "What is the SI unit of electrical resistance?",
+    "answer": "Ohm"
+  },
+  {
+    "id": 649,
+    "category": "Science",
+    "question": "What is the SI unit of force?",
+    "answer": "Newton"
+  },
+  {
+    "id": 650,
+    "category": "Science",
+    "question": "What is the SI unit of energy?",
+    "answer": "Joule"
+  },
+  {
+    "id": 651,
+    "category": "Science",
+    "question": "What is the SI unit of power?",
+    "answer": "Watt"
+  },
+  {
+    "id": 652,
+    "category": "Science",
+    "question": "What is the SI unit of frequency?",
+    "answer": "Hertz"
+  },
+  {
+    "id": 653,
+    "category": "Science",
+    "question": "What is the SI unit of electric current?",
+    "answer": "Ampere"
+  },
+  {
+    "id": 654,
+    "category": "Science",
+    "question": "At what temperature does water boil at sea level in Celsius?",
+    "answer": "100°C"
+  },
+  {
+    "id": 655,
+    "category": "Science",
+    "question": "At what temperature does water freeze in Fahrenheit?",
+    "answer": "32°F"
+  },
+  {
+    "id": 656,
+    "category": "Science",
+    "question": "What is absolute zero in Celsius?",
+    "answer": "−273.15°C"
+  },
+  {
+    "id": 657,
+    "category": "Science",
+    "question": "How many bones are in the adult human body?",
+    "answer": "206"
+  },
+  {
+    "id": 658,
+    "category": "Science",
+    "question": "What is the largest organ of the human body?",
+    "answer": "The skin"
+  },
+  {
+    "id": 659,
+    "category": "Science",
+    "question": "How many chambers does the human heart have?",
+    "answer": "Four"
+  },
+  {
+    "id": 660,
+    "category": "Science",
+    "question": "Which blood cells carry oxygen?",
+    "answer": "Red blood cells"
+  },
+  {
+    "id": 661,
+    "category": "Science",
+    "question": "What is the largest bone in the human body?",
+    "answer": "The femur"
+  },
+  {
+    "id": 662,
+    "category": "Science",
+    "question": "What is the smallest bone in the human body?",
+    "answer": "The stapes (in the middle ear)"
+  },
+  {
+    "id": 663,
+    "category": "Science",
+    "question": "Which vitamin does the skin produce when exposed to sunlight?",
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 664,
+    "category": "Science",
+    "question": "What does DNA stand for?",
+    "answer": "Deoxyribonucleic acid"
+  },
+  {
+    "id": 665,
+    "category": "Science",
+    "question": "Who discovered penicillin?",
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": 666,
+    "category": "Science",
+    "question": "Who proposed the theory of evolution by natural selection?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 667,
+    "category": "Science",
+    "question": "Who is considered the father of modern genetics?",
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 668,
+    "category": "Science",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 669,
+    "category": "Science",
+    "question": "Roughly what percentage of Earth's atmosphere is oxygen?",
+    "answer": "About 21%"
+  },
+  {
+    "id": 670,
+    "category": "Science",
+    "question": "What is the pH of pure water?",
+    "answer": "7"
+  },
+  {
+    "id": 671,
+    "category": "Science",
+    "question": "What type of animal is a dolphin?",
+    "answer": "A mammal"
+  },
+  {
+    "id": 672,
+    "category": "Science",
+    "question": "What is the largest mammal?",
+    "answer": "The blue whale"
+  },
+  {
+    "id": 673,
+    "category": "Science",
+    "question": "What is the fastest land animal?",
+    "answer": "The cheetah"
+  },
+  {
+    "id": 674,
+    "category": "Science",
+    "question": "What is the tallest animal?",
+    "answer": "The giraffe"
+  },
+  {
+    "id": 675,
+    "category": "Science",
+    "question": "What is the largest living bird?",
+    "answer": "The ostrich"
+  },
+  {
+    "id": 676,
+    "category": "Science",
+    "question": "What do bees collect from flowers to make honey?",
+    "answer": "Nectar"
+  },
+  {
+    "id": 677,
+    "category": "Science",
+    "question": "How many legs does a spider have?",
+    "answer": "Eight"
+  },
+  {
+    "id": 678,
+    "category": "Science",
+    "question": "How many legs does an insect have?",
+    "answer": "Six"
+  },
+  {
+    "id": 679,
+    "category": "Science",
+    "question": "What is the study of fungi called?",
+    "answer": "Mycology"
+  },
+  {
+    "id": 680,
+    "category": "Science",
+    "question": "What is the study of earthquakes called?",
+    "answer": "Seismology"
+  },
+  {
+    "id": 681,
+    "category": "Science",
+    "question": "Which atmospheric layer protects Earth from most UV radiation?",
+    "answer": "The ozone layer"
+  },
+  {
+    "id": 682,
+    "category": "Science",
+    "question": "What is the center of an atom called?",
+    "answer": "The nucleus"
+  },
+  {
+    "id": 683,
+    "category": "Science",
+    "question": "Which subatomic particle has a negative charge?",
+    "answer": "The electron"
+  },
+  {
+    "id": 684,
+    "category": "Science",
+    "question": "What is the most abundant element in the universe?",
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 685,
+    "category": "Science",
+    "question": "What is the Sun mainly made of?",
+    "answer": "Hydrogen and helium"
+  },
+  {
+    "id": 686,
+    "category": "Science",
+    "question": "About how long does sunlight take to reach Earth?",
+    "answer": "About 8 minutes and 20 seconds"
+  },
+  {
+    "id": 687,
+    "category": "Science",
+    "question": "Which galaxy contains our solar system?",
+    "answer": "The Milky Way"
+  },
+  {
+    "id": 688,
+    "category": "Science",
+    "question": "What was the first artificial satellite?",
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": 689,
+    "category": "Science",
+    "question": "Who was the first human in space?",
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": 690,
+    "category": "Science",
+    "question": "Who was the first person to walk on the Moon?",
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": 691,
+    "category": "Science",
+    "question": "In what year did humans first land on the Moon?",
+    "answer": "1969"
+  },
+  {
+    "id": 692,
+    "category": "Science",
+    "question": "Which blood type is the universal donor for red blood cells?",
+    "answer": "O negative"
+  },
+  {
+    "id": 693,
+    "category": "Science",
+    "question": "What is the hardest substance in the human body?",
+    "answer": "Tooth enamel"
+  },
+  {
+    "id": 694,
+    "category": "Science",
+    "question": "How many chromosomes do humans normally have?",
+    "answer": "46"
+  },
+  {
+    "id": 695,
+    "category": "Science",
+    "question": "What do we call animals that eat only plants?",
+    "answer": "Herbivores"
+  },
+  {
+    "id": 696,
+    "category": "Science",
+    "question": "What do we call animals that eat only meat?",
+    "answer": "Carnivores"
+  },
+  {
+    "id": 697,
+    "category": "Science",
+    "question": "What is the process of liquid water turning into vapor?",
+    "answer": "Evaporation"
+  },
+  {
+    "id": 698,
+    "category": "Science",
+    "question": "In what unit is sound intensity commonly measured?",
+    "answer": "Decibels"
+  },
+  {
+    "id": 699,
+    "category": "Science",
+    "question": "What is the energy of a moving object called?",
+    "answer": "Kinetic energy"
+  },
+  {
+    "id": 700,
+    "category": "Science",
+    "question": "What is the green pigment in plants called?",
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": 701,
+    "category": "Science",
+    "question": "Which organ pumps blood around the body?",
+    "answer": "The heart"
+  },
+  {
+    "id": 702,
+    "category": "Science",
+    "question": "Which organs filter blood to produce urine?",
+    "answer": "The kidneys"
+  },
+  {
+    "id": 703,
+    "category": "Science",
+    "question": "What is a baby kangaroo called?",
+    "answer": "A joey"
+  },
+  {
+    "id": 704,
+    "category": "Science",
+    "question": "Who is the only person to win Nobel Prizes in two different sciences?",
+    "answer": "Marie Curie (Physics and Chemistry)"
+  },
+  {
+    "id": 705,
+    "category": "Science",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 706,
+    "category": "Science",
+    "question": "Which scientist discovered radioactivity in uranium?",
+    "answer": "Henri Becquerel"
+  },
+  {
+    "id": 707,
+    "category": "Science",
+    "question": "Who discovered the electron?",
+    "answer": "J. J. Thomson"
+  },
+  {
+    "id": 708,
+    "category": "Science",
+    "question": "Who developed the periodic table in 1869?",
+    "answer": "Dmitri Mendeleev"
+  },
+  {
+    "id": 709,
+    "category": "Science",
+    "question": "Who is known for the discovery of gravity after an apple?",
+    "answer": "Isaac Newton (according to popular legend)"
+  },
+  {
+    "id": 710,
+    "category": "Science",
+    "question": "What is the Latin-derived name for the study of birds?",
+    "answer": "Ornithology"
+  },
+  {
+    "id": 711,
+    "category": "Science",
+    "question": "What is the term for the study of the weather?",
+    "answer": "Meteorology"
+  },
+  {
+    "id": 712,
+    "category": "Science",
+    "question": "What is the name of the largest moon of Saturn?",
+    "answer": "Titan"
+  },
+  {
+    "id": 713,
+    "category": "Science",
+    "question": "What is the largest moon of Jupiter?",
+    "answer": "Ganymede"
+  },
+  {
+    "id": 714,
+    "category": "Science",
+    "question": "What is Earth's only natural satellite called?",
+    "answer": "The Moon"
+  },
+  {
+    "id": 715,
+    "category": "Science",
+    "question": "How many planets are in our solar system?",
+    "answer": "Eight"
+  },
+  {
+    "id": 716,
+    "category": "Science",
+    "question": "Which planet is known as Earth's twin?",
+    "answer": "Venus"
+  },
+  {
+    "id": 717,
+    "category": "Science",
+    "question": "What is a group of stars forming a pattern called?",
+    "answer": "A constellation"
+  },
+  {
+    "id": 718,
+    "category": "Science",
+    "question": "What is the name of the nearest galaxy to the Milky Way large enough to be seen with the naked eye?",
+    "answer": "The Andromeda Galaxy"
+  },
+  {
+    "id": 719,
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "answer": "The Pacific Ocean"
+  },
+  {
+    "id": 720,
+    "category": "Geography",
+    "question": "What is the longest river in the world (commonly cited)?",
+    "answer": "The Nile (the Amazon is a close rival depending on how it is measured)"
+  },
+  {
+    "id": 721,
+    "category": "Geography",
+    "question": "What is the largest country in the world by area?",
+    "answer": "Russia"
+  },
+  {
+    "id": 722,
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City"
+  },
+  {
+    "id": 723,
+    "category": "Geography",
+    "question": "Which country has the largest population?",
+    "answer": "India"
+  },
+  {
+    "id": 724,
+    "category": "Geography",
+    "question": "What is the highest mountain above sea level?",
+    "answer": "Mount Everest"
+  },
+  {
+    "id": 725,
+    "category": "Geography",
+    "question": "What is the largest hot desert in the world?",
+    "answer": "The Sahara"
+  },
+  {
+    "id": 726,
+    "category": "Geography",
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland"
+  },
+  {
+    "id": 727,
+    "category": "Geography",
+    "question": "What is the largest continent by area?",
+    "answer": "Asia"
+  },
+  {
+    "id": 728,
+    "category": "Geography",
+    "question": "What is the smallest continent by area?",
+    "answer": "Australia (Oceania)"
+  },
+  {
+    "id": 729,
+    "category": "Geography",
+    "question": "What is the deepest ocean trench?",
+    "answer": "The Mariana Trench"
+  },
+  {
+    "id": 730,
+    "category": "Geography",
+    "question": "What is the largest lake in the world by area?",
+    "answer": "The Caspian Sea"
+  },
+  {
+    "id": 731,
+    "category": "Geography",
+    "question": "What is the deepest lake in the world?",
+    "answer": "Lake Baikal"
+  },
+  {
+    "id": 732,
+    "category": "Geography",
+    "question": "What is the longest mountain range on land?",
+    "answer": "The Andes"
+  },
+  {
+    "id": 733,
+    "category": "Geography",
+    "question": "Which river flows through Paris?",
+    "answer": "The Seine"
+  },
+  {
+    "id": 734,
+    "category": "Geography",
+    "question": "Which river flows through London?",
+    "answer": "The Thames"
+  },
+  {
+    "id": 735,
+    "category": "Geography",
+    "question": "Which river flows through Cairo?",
+    "answer": "The Nile"
+  },
+  {
+    "id": 736,
+    "category": "Geography",
+    "question": "Which river flows through Baghdad?",
+    "answer": "The Tigris"
+  },
+  {
+    "id": 737,
+    "category": "Geography",
+    "question": "Which river flows through Rome?",
+    "answer": "The Tiber"
+  },
+  {
+    "id": 738,
+    "category": "Geography",
+    "question": "Which river flows through Vienna?",
+    "answer": "The Danube"
+  },
+  {
+    "id": 739,
+    "category": "Geography",
+    "question": "Which country has the most islands?",
+    "answer": "Sweden"
+  },
+  {
+    "id": 740,
+    "category": "Geography",
+    "question": "Which strait separates Europe from Africa at the western end of the Mediterranean?",
+    "answer": "The Strait of Gibraltar"
+  },
+  {
+    "id": 741,
+    "category": "Geography",
+    "question": "Which canal connects the Atlantic and Pacific Oceans?",
+    "answer": "The Panama Canal"
+  },
+  {
+    "id": 742,
+    "category": "Geography",
+    "question": "Which canal connects the Mediterranean Sea to the Red Sea?",
+    "answer": "The Suez Canal"
+  },
+  {
+    "id": 743,
+    "category": "Geography",
+    "question": "What is the largest rainforest in the world?",
+    "answer": "The Amazon rainforest"
+  },
+  {
+    "id": 744,
+    "category": "Geography",
+    "question": "What is the tallest waterfall in the world?",
+    "answer": "Angel Falls (Venezuela)"
+  },
+  {
+    "id": 745,
+    "category": "Geography",
+    "question": "Which country has the most time zones when overseas territories are included?",
+    "answer": "France"
+  },
+  {
+    "id": 746,
+    "category": "Geography",
+    "question": "What is the tallest building in the world?",
+    "answer": "The Burj Khalifa"
+  },
+  {
+    "id": 747,
+    "category": "Geography",
+    "question": "On which continent is Egypt located?",
+    "answer": "Africa"
+  },
+  {
+    "id": 748,
+    "category": "Geography",
+    "question": "How many continents are there?",
+    "answer": "Seven"
+  },
+  {
+    "id": 749,
+    "category": "Geography",
+    "question": "How many oceans are there?",
+    "answer": "Five"
+  },
+  {
+    "id": 750,
+    "category": "Geography",
+    "question": "What is the most populous city in the United States?",
+    "answer": "New York City"
+  },
+  {
+    "id": 751,
+    "category": "Geography",
+    "question": "Which US state is largest by area?",
+    "answer": "Alaska"
+  },
+  {
+    "id": 752,
+    "category": "Geography",
+    "question": "Which US state is smallest by area?",
+    "answer": "Rhode Island"
+  },
+  {
+    "id": 753,
+    "category": "Geography",
+    "question": "Which US state has the largest population?",
+    "answer": "California"
+  },
+  {
+    "id": 754,
+    "category": "Geography",
+    "question": "How many states are in the United States?",
+    "answer": "50"
+  },
+  {
+    "id": 755,
+    "category": "Geography",
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan"
+  },
+  {
+    "id": 756,
+    "category": "Geography",
+    "question": "Which city is known as the Eternal City?",
+    "answer": "Rome"
+  },
+  {
+    "id": 757,
+    "category": "Geography",
+    "question": "Which city is known as the City of Light?",
+    "answer": "Paris"
+  },
+  {
+    "id": 758,
+    "category": "Geography",
+    "question": "Which city is nicknamed the Big Apple?",
+    "answer": "New York City"
+  },
+  {
+    "id": 759,
+    "category": "Geography",
+    "question": "Which country is shaped like a boot?",
+    "answer": "Italy"
+  },
+  {
+    "id": 760,
+    "category": "Geography",
+    "question": "Which continent is the driest?",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 761,
+    "category": "Geography",
+    "question": "Which continent is the coldest?",
+    "answer": "Antarctica"
+  },
+  {
+    "id": 762,
+    "category": "Geography",
+    "question": "Which desert in Chile is one of the driest places on Earth?",
+    "answer": "The Atacama Desert"
+  },
+  {
+    "id": 763,
+    "category": "Geography",
+    "question": "What is the lowest land point on Earth's surface?",
+    "answer": "The shore of the Dead Sea"
+  },
+  {
+    "id": 764,
+    "category": "Geography",
+    "question": "In which country is Mount Kilimanjaro?",
+    "answer": "Tanzania"
+  },
+  {
+    "id": 765,
+    "category": "Geography",
+    "question": "In which country is Machu Picchu?",
+    "answer": "Peru"
+  },
+  {
+    "id": 766,
+    "category": "Geography",
+    "question": "In which city is the Taj Mahal?",
+    "answer": "Agra"
+  },
+  {
+    "id": 767,
+    "category": "Geography",
+    "question": "In which country is the Great Wall?",
+    "answer": "China"
+  },
+  {
+    "id": 768,
+    "category": "Geography",
+    "question": "In which city is the Colosseum?",
+    "answer": "Rome"
+  },
+  {
+    "id": 769,
+    "category": "Geography",
+    "question": "In which city is the Eiffel Tower?",
+    "answer": "Paris"
+  },
+  {
+    "id": 770,
+    "category": "Geography",
+    "question": "In which city is the Christ the Redeemer statue?",
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "id": 771,
+    "category": "Geography",
+    "question": "In which country is Petra?",
+    "answer": "Jordan"
+  },
+  {
+    "id": 772,
+    "category": "Geography",
+    "question": "In which country is Angkor Wat?",
+    "answer": "Cambodia"
+  },
+  {
+    "id": 773,
+    "category": "Geography",
+    "question": "In which city is the Sagrada Família?",
+    "answer": "Barcelona"
+  },
+  {
+    "id": 774,
+    "category": "Geography",
+    "question": "Near which city are the Pyramids of Giza?",
+    "answer": "Cairo"
+  },
+  {
+    "id": 775,
+    "category": "Geography",
+    "question": "In which city is the Parthenon?",
+    "answer": "Athens"
+  },
+  {
+    "id": 776,
+    "category": "Geography",
+    "question": "In which city is Big Ben?",
+    "answer": "London"
+  },
+  {
+    "id": 777,
+    "category": "Geography",
+    "question": "In which city is the Sydney Opera House?",
+    "answer": "Sydney"
+  },
+  {
+    "id": 778,
+    "category": "Geography",
+    "question": "In which city is the Burj Khalifa?",
+    "answer": "Dubai"
+  },
+  {
+    "id": 779,
+    "category": "Geography",
+    "question": "In which country is Mount Fuji?",
+    "answer": "Japan"
+  },
+  {
+    "id": 780,
+    "category": "Geography",
+    "question": "What is the longest river in Europe?",
+    "answer": "The Volga"
+  },
+  {
+    "id": 781,
+    "category": "Geography",
+    "question": "Which ocean lies between Africa and Australia?",
+    "answer": "The Indian Ocean"
+  },
+  {
+    "id": 782,
+    "category": "Geography",
+    "question": "Which is the largest country in Africa by area?",
+    "answer": "Algeria"
+  },
+  {
+    "id": 783,
+    "category": "Geography",
+    "question": "Which is the largest country in South America?",
+    "answer": "Brazil"
+  },
+  {
+    "id": 784,
+    "category": "Geography",
+    "question": "Which is the largest country in North America by area?",
+    "answer": "Canada"
+  },
+  {
+    "id": 785,
+    "category": "Geography",
+    "question": "Which two countries share the world's longest international land border?",
+    "answer": "Canada and the United States"
+  },
+  {
+    "id": 786,
+    "category": "Geography",
+    "question": "Which sea is bordered by Italy, Croatia and Albania?",
+    "answer": "The Adriatic Sea"
+  },
+  {
+    "id": 787,
+    "category": "Geography",
+    "question": "Which mountain range separates Europe from Asia in Russia?",
+    "answer": "The Ural Mountains"
+  },
+  {
+    "id": 788,
+    "category": "Geography",
+    "question": "Which African lake is the largest by area?",
+    "answer": "Lake Victoria"
+  },
+  {
+    "id": 789,
+    "category": "Geography",
+    "question": "What is the capital city of the European Union's main institutions, home to the European Commission?",
+    "answer": "Brussels"
+  },
+  {
+    "id": 790,
+    "category": "Geography",
+    "question": "Which country is home to the city of Timbuktu?",
+    "answer": "Mali"
+  },
+  {
+    "id": 791,
+    "category": "Geography",
+    "question": "Which river is the longest in South America?",
+    "answer": "The Amazon"
+  },
+  {
+    "id": 792,
+    "category": "History",
+    "question": "Who was the first president of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "id": 793,
+    "category": "History",
+    "question": "In what year did World War I begin?",
+    "answer": "1914"
+  },
+  {
+    "id": 794,
+    "category": "History",
+    "question": "In what year did World War I end?",
+    "answer": "1918"
+  },
+  {
+    "id": 795,
+    "category": "History",
+    "question": "In what year did World War II begin?",
+    "answer": "1939"
+  },
+  {
+    "id": 796,
+    "category": "History",
+    "question": "In what year did World War II end?",
+    "answer": "1945"
+  },
+  {
+    "id": 797,
+    "category": "History",
+    "question": "Who was the British prime minister for most of World War II?",
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": 798,
+    "category": "History",
+    "question": "Who was the first emperor of Rome?",
+    "answer": "Augustus"
+  },
+  {
+    "id": 799,
+    "category": "History",
+    "question": "Which ancient civilization built the pyramids of Giza?",
+    "answer": "Ancient Egypt"
+  },
+  {
+    "id": 800,
+    "category": "History",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": 801,
+    "category": "History",
+    "question": "In what year did the Berlin Wall fall?",
+    "answer": "1989"
+  },
+  {
+    "id": 802,
+    "category": "History",
+    "question": "In what year did the Titanic sink?",
+    "answer": "1912"
+  },
+  {
+    "id": 803,
+    "category": "History",
+    "question": "Which explorer reached the Americas in 1492 on a Spanish-sponsored voyage?",
+    "answer": "Christopher Columbus"
+  },
+  {
+    "id": 804,
+    "category": "History",
+    "question": "Whose expedition completed the first circumnavigation of the globe?",
+    "answer": "Ferdinand Magellan's expedition (completed under Juan Sebastián Elcano)"
+  },
+  {
+    "id": 805,
+    "category": "History",
+    "question": "In what year did the French Revolution begin?",
+    "answer": "1789"
+  },
+  {
+    "id": 806,
+    "category": "History",
+    "question": "In what year was the US Declaration of Independence adopted?",
+    "answer": "1776"
+  },
+  {
+    "id": 807,
+    "category": "History",
+    "question": "Who was the principal author of the US Declaration of Independence?",
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": 808,
+    "category": "History",
+    "question": "Who was US president during the American Civil War?",
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "id": 809,
+    "category": "History",
+    "question": "In which years was the American Civil War fought?",
+    "answer": "1861–1865"
+  },
+  {
+    "id": 810,
+    "category": "History",
+    "question": "Who was the first chancellor of the unified German Empire?",
+    "answer": "Otto von Bismarck"
+  },
+  {
+    "id": 811,
+    "category": "History",
+    "question": "To which island was Napoleon finally exiled?",
+    "answer": "Saint Helena"
+  },
+  {
+    "id": 812,
+    "category": "History",
+    "question": "In what year was the Battle of Waterloo?",
+    "answer": "1815"
+  },
+  {
+    "id": 813,
+    "category": "History",
+    "question": "Who led the Soviet Union during most of World War II?",
+    "answer": "Joseph Stalin"
+  },
+  {
+    "id": 814,
+    "category": "History",
+    "question": "Who led India's independence movement through nonviolent resistance?",
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 815,
+    "category": "History",
+    "question": "In what year did India gain independence from Britain?",
+    "answer": "1947"
+  },
+  {
+    "id": 816,
+    "category": "History",
+    "question": "Who became South Africa's first president after apartheid?",
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": 817,
+    "category": "History",
+    "question": "In what year was Nelson Mandela elected president of South Africa?",
+    "answer": "1994"
+  },
+  {
+    "id": 818,
+    "category": "History",
+    "question": "Which British queen reigned for 63 years in the 19th and early 20th centuries?",
+    "answer": "Queen Victoria"
+  },
+  {
+    "id": 819,
+    "category": "History",
+    "question": "Who was the longest-reigning British monarch?",
+    "answer": "Queen Elizabeth II"
+  },
+  {
+    "id": 820,
+    "category": "History",
+    "question": "Who was the first female prime minister of the United Kingdom?",
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "id": 821,
+    "category": "History",
+    "question": "Who assassinated Abraham Lincoln?",
+    "answer": "John Wilkes Booth"
+  },
+  {
+    "id": 822,
+    "category": "History",
+    "question": "Which of the Seven Wonders of the Ancient World still stands?",
+    "answer": "The Great Pyramid of Giza"
+  },
+  {
+    "id": 823,
+    "category": "History",
+    "question": "In which ancient city were the Hanging Gardens said to be?",
+    "answer": "Babylon"
+  },
+  {
+    "id": 824,
+    "category": "History",
+    "question": "Which philosopher tutored Alexander the Great?",
+    "answer": "Aristotle"
+  },
+  {
+    "id": 825,
+    "category": "History",
+    "question": "Which Greek philosopher was Plato's teacher?",
+    "answer": "Socrates"
+  },
+  {
+    "id": 826,
+    "category": "History",
+    "question": "Which philosopher wrote The Republic?",
+    "answer": "Plato"
+  },
+  {
+    "id": 827,
+    "category": "History",
+    "question": "Which empire did Genghis Khan found?",
+    "answer": "The Mongol Empire"
+  },
+  {
+    "id": 828,
+    "category": "History",
+    "question": "Who was the first emperor of a unified China?",
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "id": 829,
+    "category": "History",
+    "question": "In what year was the Cuban Missile Crisis?",
+    "answer": "1962"
+  },
+  {
+    "id": 830,
+    "category": "History",
+    "question": "Who was US president during the Cuban Missile Crisis?",
+    "answer": "John F. Kennedy"
+  },
+  {
+    "id": 831,
+    "category": "History",
+    "question": "In what year was President John F. Kennedy assassinated?",
+    "answer": "1963"
+  },
+  {
+    "id": 832,
+    "category": "History",
+    "question": "Who was the only US president to resign from office?",
+    "answer": "Richard Nixon"
+  },
+  {
+    "id": 833,
+    "category": "History",
+    "question": "In what year did the Soviet Union dissolve?",
+    "answer": "1991"
+  },
+  {
+    "id": 834,
+    "category": "History",
+    "question": "Who was the last leader of the Soviet Union?",
+    "answer": "Mikhail Gorbachev"
+  },
+  {
+    "id": 835,
+    "category": "History",
+    "question": "In what year was the Magna Carta sealed?",
+    "answer": "1215"
+  },
+  {
+    "id": 836,
+    "category": "History",
+    "question": "Who invented the movable-type printing press in Europe?",
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "id": 837,
+    "category": "History",
+    "question": "In which country did the Renaissance begin?",
+    "answer": "Italy"
+  },
+  {
+    "id": 838,
+    "category": "History",
+    "question": "Which war was fought on the Korean Peninsula from 1950 to 1953?",
+    "answer": "The Korean War"
+  },
+  {
+    "id": 839,
+    "category": "History",
+    "question": "Which ship carried the Pilgrims to America in 1620?",
+    "answer": "The Mayflower"
+  },
+  {
+    "id": 840,
+    "category": "History",
+    "question": "Who was the first Prime Minister of India?",
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 841,
+    "category": "History",
+    "question": "Who was the first president of the Republic of Turkey?",
+    "answer": "Mustafa Kemal Atatürk"
+  },
+  {
+    "id": 842,
+    "category": "History",
+    "question": "Which Egyptian queen was the last active ruler of the Ptolemaic Kingdom?",
+    "answer": "Cleopatra VII"
+  },
+  {
+    "id": 843,
+    "category": "History",
+    "question": "Who was the Carthaginian general who crossed the Alps with elephants?",
+    "answer": "Hannibal"
+  },
+  {
+    "id": 844,
+    "category": "History",
+    "question": "Who was the first European to reach India by sea?",
+    "answer": "Vasco da Gama"
+  },
+  {
+    "id": 845,
+    "category": "History",
+    "question": "Which Roman general crossed the Rubicon in 49 BC?",
+    "answer": "Julius Caesar"
+  },
+  {
+    "id": 846,
+    "category": "History",
+    "question": "Who was the French military leader who became emperor in 1804?",
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "id": 847,
+    "category": "History",
+    "question": "Which treaty ended World War I with Germany?",
+    "answer": "The Treaty of Versailles"
+  },
+  {
+    "id": 848,
+    "category": "History",
+    "question": "What was the name of the airship disaster of 1937?",
+    "answer": "The Hindenburg disaster"
+  },
+  {
+    "id": 849,
+    "category": "History",
+    "question": "Which civilization built Machu Picchu?",
+    "answer": "The Inca"
+  },
+  {
+    "id": 850,
+    "category": "History",
+    "question": "Which civilization built Chichén Itzá?",
+    "answer": "The Maya"
+  },
+  {
+    "id": 851,
+    "category": "History",
+    "question": "Which empire was centered on Tenochtitlan?",
+    "answer": "The Aztec Empire"
+  },
+  {
+    "id": 852,
+    "category": "History",
+    "question": "Who painted the Mona Lisa?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 853,
+    "category": "History",
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 854,
+    "category": "History",
+    "question": "Who painted The Starry Night?",
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 855,
+    "category": "History",
+    "question": "Who painted The Persistence of Memory?",
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": 856,
+    "category": "History",
+    "question": "Who painted Guernica?",
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 857,
+    "category": "History",
+    "question": "Who painted The Scream?",
+    "answer": "Edvard Munch"
+  },
+  {
+    "id": 858,
+    "category": "History",
+    "question": "Who painted Girl with a Pearl Earring?",
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "id": 859,
+    "category": "History",
+    "question": "Who painted The Night Watch?",
+    "answer": "Rembrandt"
+  },
+  {
+    "id": 860,
+    "category": "History",
+    "question": "Who painted the Water Lilies series?",
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 861,
+    "category": "History",
+    "question": "Who painted The Birth of Venus?",
+    "answer": "Sandro Botticelli"
+  },
+  {
+    "id": 862,
+    "category": "History",
+    "question": "Who painted The Last Supper?",
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 863,
+    "category": "History",
+    "question": "Who sculpted David (1501–1504)?",
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 864,
+    "category": "History",
+    "question": "Who sculpted The Thinker?",
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": 865,
+    "category": "History",
+    "question": "Who composed The Four Seasons?",
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "id": 866,
+    "category": "History",
+    "question": "Who composed the Ninth Symphony featuring Ode to Joy?",
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": 867,
+    "category": "History",
+    "question": "Who composed The Magic Flute?",
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": 868,
+    "category": "History",
+    "question": "Who composed the ballet Swan Lake?",
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": 869,
+    "category": "History",
+    "question": "Who composed the Brandenburg Concertos?",
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "id": 870,
+    "category": "History",
+    "question": "Who composed Rhapsody in Blue?",
+    "answer": "George Gershwin"
+  },
+  {
+    "id": 871,
+    "category": "History",
+    "question": "Who composed The Rite of Spring?",
+    "answer": "Igor Stravinsky"
+  },
+  {
+    "id": 872,
+    "category": "History",
+    "question": "Who wrote The Communist Manifesto?",
+    "answer": "Karl Marx and Friedrich Engels"
+  },
+  {
+    "id": 873,
+    "category": "History",
+    "question": "Who wrote On the Origin of Species?",
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 874,
+    "category": "History",
+    "question": "Who wrote The Prince?",
+    "answer": "Niccolò Machiavelli"
+  },
+  {
+    "id": 875,
+    "category": "History",
+    "question": "Who wrote The Wealth of Nations?",
+    "answer": "Adam Smith"
+  },
+  {
+    "id": 876,
+    "category": "History",
+    "question": "Who wrote Critique of Pure Reason?",
+    "answer": "Immanuel Kant"
+  },
+  {
+    "id": 877,
+    "category": "History",
+    "question": "Which philosopher is associated with the phrase “I think, therefore I am”?",
+    "answer": "René Descartes"
+  },
+  {
+    "id": 878,
+    "category": "History",
+    "question": "Who wrote Thus Spoke Zarathustra?",
+    "answer": "Friedrich Nietzsche"
+  },
+  {
+    "id": 879,
+    "category": "Technology",
+    "question": "Who founded Microsoft?",
+    "answer": "Bill Gates and Paul Allen"
+  },
+  {
+    "id": 880,
+    "category": "Technology",
+    "question": "Who founded Amazon?",
+    "answer": "Jeff Bezos"
+  },
+  {
+    "id": 881,
+    "category": "Technology",
+    "question": "Who is credited with inventing the practical incandescent light bulb?",
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": 882,
+    "category": "Technology",
+    "question": "Who invented the World Wide Web?",
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": 883,
+    "category": "Technology",
+    "question": "Who is considered the first computer programmer?",
+    "answer": "Ada Lovelace"
+  },
+  {
+    "id": 884,
+    "category": "Technology",
+    "question": "Who made the first sustained powered airplane flight in 1903?",
+    "answer": "The Wright brothers"
+  },
+  {
+    "id": 885,
+    "category": "Technology",
+    "question": "Who created the Linux kernel?",
+    "answer": "Linus Torvalds"
+  },
+  {
+    "id": 886,
+    "category": "Technology",
+    "question": "Who created the Python programming language?",
+    "answer": "Guido van Rossum"
+  },
+  {
+    "id": 887,
+    "category": "Technology",
+    "question": "Who is credited with patenting the first practical telephone?",
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": 888,
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 889,
+    "category": "Technology",
+    "question": "What does RAM stand for?",
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": 890,
+    "category": "Technology",
+    "question": "What does ROM stand for?",
+    "answer": "Read-Only Memory"
+  },
+  {
+    "id": 891,
+    "category": "Technology",
+    "question": "What does HTML stand for?",
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": 892,
+    "category": "Technology",
+    "question": "What does HTTP stand for?",
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 893,
+    "category": "Technology",
+    "question": "What does URL stand for?",
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "id": 894,
+    "category": "Technology",
+    "question": "What does USB stand for?",
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "id": 895,
+    "category": "Technology",
+    "question": "What does GPS stand for?",
+    "answer": "Global Positioning System"
+  },
+  {
+    "id": 896,
+    "category": "Technology",
+    "question": "What does PDF stand for?",
+    "answer": "Portable Document Format"
+  },
+  {
+    "id": 897,
+    "category": "Technology",
+    "question": "What does LED stand for?",
+    "answer": "Light Emitting Diode"
+  },
+  {
+    "id": 898,
+    "category": "Technology",
+    "question": "What does LCD stand for?",
+    "answer": "Liquid Crystal Display"
+  },
+  {
+    "id": 899,
+    "category": "Technology",
+    "question": "What does SQL stand for?",
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 900,
+    "category": "Technology",
+    "question": "What does CSS stand for?",
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "id": 901,
+    "category": "Technology",
+    "question": "What does GPU stand for?",
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "id": 902,
+    "category": "Technology",
+    "question": "What does SSD stand for?",
+    "answer": "Solid State Drive"
+  },
+  {
+    "id": 903,
+    "category": "Technology",
+    "question": "What does VPN stand for?",
+    "answer": "Virtual Private Network"
+  },
+  {
+    "id": 904,
+    "category": "Technology",
+    "question": "What does DNS stand for?",
+    "answer": "Domain Name System"
+  },
+  {
+    "id": 905,
+    "category": "Technology",
+    "question": "What does ISP stand for?",
+    "answer": "Internet Service Provider"
+  },
+  {
+    "id": 906,
+    "category": "Technology",
+    "question": "What does ATM stand for?",
+    "answer": "Automated Teller Machine"
+  },
+  {
+    "id": 907,
+    "category": "Technology",
+    "question": "What does PIN stand for?",
+    "answer": "Personal Identification Number"
+  },
+  {
+    "id": 908,
+    "category": "Technology",
+    "question": "What does NASA stand for?",
+    "answer": "National Aeronautics and Space Administration"
+  },
+  {
+    "id": 909,
+    "category": "Technology",
+    "question": "What does UNESCO stand for?",
+    "answer": "United Nations Educational, Scientific and Cultural Organization"
+  },
+  {
+    "id": 910,
+    "category": "Technology",
+    "question": "What does WHO stand for in global health?",
+    "answer": "World Health Organization"
+  },
+  {
+    "id": 911,
+    "category": "Technology",
+    "question": "What does UNICEF stand for?",
+    "answer": "United Nations Children's Fund (originally International Children's Emergency Fund)"
+  },
+  {
+    "id": 912,
+    "category": "Technology",
+    "question": "What does NATO stand for?",
+    "answer": "North Atlantic Treaty Organization"
+  },
+  {
+    "id": 913,
+    "category": "Technology",
+    "question": "What does OPEC stand for?",
+    "answer": "Organization of the Petroleum Exporting Countries"
+  },
+  {
+    "id": 914,
+    "category": "Technology",
+    "question": "What does FIFA stand for?",
+    "answer": "Fédération Internationale de Football Association"
+  },
+  {
+    "id": 915,
+    "category": "Technology",
+    "question": "What does IMF stand for?",
+    "answer": "International Monetary Fund"
+  },
+  {
+    "id": 916,
+    "category": "Technology",
+    "question": "How many bits are in a byte?",
+    "answer": "Eight"
+  },
+  {
+    "id": 917,
+    "category": "Technology",
+    "question": "Which company created the iPhone?",
+    "answer": "Apple"
+  },
+  {
+    "id": 918,
+    "category": "Technology",
+    "question": "In what year was the first iPhone released?",
+    "answer": "2007"
+  },
+  {
+    "id": 919,
+    "category": "Technology",
+    "question": "Which company developed the Android operating system?",
+    "answer": "Android Inc., later acquired by Google"
+  },
+  {
+    "id": 920,
+    "category": "Technology",
+    "question": "Which company makes the PlayStation console?",
+    "answer": "Sony"
+  },
+  {
+    "id": 921,
+    "category": "Technology",
+    "question": "Which company makes the Xbox console?",
+    "answer": "Microsoft"
+  },
+  {
+    "id": 922,
+    "category": "Technology",
+    "question": "Which company owns YouTube?",
+    "answer": "Google (Alphabet)"
+  },
+  {
+    "id": 923,
+    "category": "Technology",
+    "question": "What is the most widely used search engine in the world?",
+    "answer": "Google"
+  },
+  {
+    "id": 924,
+    "category": "Technology",
+    "question": "Which language is used to structure web pages?",
+    "answer": "HTML"
+  },
+  {
+    "id": 925,
+    "category": "Technology",
+    "question": "What is the common name for the “brain” of a computer?",
+    "answer": "The CPU (central processing unit)"
+  },
+  {
+    "id": 926,
+    "category": "Technology",
+    "question": "Which company founded the social network Facebook?",
+    "answer": "Meta (originally Facebook, Inc.)"
+  },
+  {
+    "id": 927,
+    "category": "Technology",
+    "question": "Who co-founded Apple with Steve Wozniak?",
+    "answer": "Steve Jobs"
+  },
+  {
+    "id": 928,
+    "category": "Sports",
+    "question": "How many players per side are on the field in a soccer match?",
+    "answer": "11"
+  },
+  {
+    "id": 929,
+    "category": "Sports",
+    "question": "How many players per team are on court in basketball?",
+    "answer": "5"
+  },
+  {
+    "id": 930,
+    "category": "Sports",
+    "question": "How many players are on the field for the batting team's opposition in baseball?",
+    "answer": "9"
+  },
+  {
+    "id": 931,
+    "category": "Sports",
+    "question": "How many players are on a cricket team?",
+    "answer": "11"
+  },
+  {
+    "id": 932,
+    "category": "Sports",
+    "question": "How many players are on a rugby union team on the field?",
+    "answer": "15"
+  },
+  {
+    "id": 933,
+    "category": "Sports",
+    "question": "How many players per side are on court in volleyball?",
+    "answer": "6"
+  },
+  {
+    "id": 934,
+    "category": "Sports",
+    "question": "How often are the Summer Olympics held?",
+    "answer": "Every four years"
+  },
+  {
+    "id": 935,
+    "category": "Sports",
+    "question": "In which city did the modern Olympic Games begin in 1896?",
+    "answer": "Athens"
+  },
+  {
+    "id": 936,
+    "category": "Sports",
+    "question": "Who has won the most Olympic gold medals?",
+    "answer": "Michael Phelps (23)"
+  },
+  {
+    "id": 937,
+    "category": "Sports",
+    "question": "Who holds the men's 100 m world record at 9.58 seconds?",
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": 938,
+    "category": "Sports",
+    "question": "Which country has won the most FIFA World Cups?",
+    "answer": "Brazil (five titles)"
+  },
+  {
+    "id": 939,
+    "category": "Sports",
+    "question": "Which four tournaments make up tennis's Grand Slams?",
+    "answer": "The Australian Open, French Open, Wimbledon and US Open"
+  },
+  {
+    "id": 940,
+    "category": "Sports",
+    "question": "Which Grand Slam tennis tournament is played on grass?",
+    "answer": "Wimbledon"
+  },
+  {
+    "id": 941,
+    "category": "Sports",
+    "question": "In which sport is the Super Bowl contested?",
+    "answer": "American football"
+  },
+  {
+    "id": 942,
+    "category": "Sports",
+    "question": "How many holes are played in a standard round of golf?",
+    "answer": "18"
+  },
+  {
+    "id": 943,
+    "category": "Sports",
+    "question": "In which sport is a shuttlecock used?",
+    "answer": "Badminton"
+  },
+  {
+    "id": 944,
+    "category": "Sports",
+    "question": "How long is a marathon?",
+    "answer": "42.195 km (26.2 miles)"
+  },
+  {
+    "id": 945,
+    "category": "Sports",
+    "question": "How many pieces does each player start with in chess?",
+    "answer": "16"
+  },
+  {
+    "id": 946,
+    "category": "Sports",
+    "question": "Which chess piece moves diagonally?",
+    "answer": "The bishop"
+  },
+  {
+    "id": 947,
+    "category": "Sports",
+    "question": "What is a perfect score in ten-pin bowling?",
+    "answer": "300"
+  },
+  {
+    "id": 948,
+    "category": "Sports",
+    "question": "How many points is a touchdown worth in the NFL?",
+    "answer": "Six"
+  },
+  {
+    "id": 949,
+    "category": "Sports",
+    "question": "How high is a standard basketball hoop?",
+    "answer": "10 feet (3.05 m)"
+  },
+  {
+    "id": 950,
+    "category": "Sports",
+    "question": "Which boxer was nicknamed “The Greatest”?",
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": 951,
+    "category": "Sports",
+    "question": "Which golfer won 15 major championships and is nicknamed Tiger?",
+    "answer": "Tiger Woods"
+  },
+  {
+    "id": 952,
+    "category": "Sports",
+    "question": "What is the nationality of footballer Lionel Messi?",
+    "answer": "Argentine"
+  },
+  {
+    "id": 953,
+    "category": "Sports",
+    "question": "How many rings are on the Olympic flag?",
+    "answer": "Five"
+  },
+  {
+    "id": 954,
+    "category": "Sports",
+    "question": "Which cycling race is held annually across France?",
+    "answer": "The Tour de France"
+  },
+  {
+    "id": 955,
+    "category": "Sports",
+    "question": "Which club has won the most UEFA Champions League/European Cup titles?",
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 956,
+    "category": "Sports",
+    "question": "Which country invented the sport of cricket?",
+    "answer": "England"
+  },
+  {
+    "id": 957,
+    "category": "Sports",
+    "question": "In which sport do teams compete for the Stanley Cup?",
+    "answer": "Ice hockey"
+  },
+  {
+    "id": 958,
+    "category": "Sports",
+    "question": "In which sport would you perform a slam dunk?",
+    "answer": "Basketball"
+  },
+  {
+    "id": 959,
+    "category": "Arts & Culture",
+    "question": "Who directed Jaws, E.T. and Jurassic Park?",
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": 960,
+    "category": "Arts & Culture",
+    "question": "Who directed Titanic (1997)?",
+    "answer": "James Cameron"
+  },
+  {
+    "id": 961,
+    "category": "Arts & Culture",
+    "question": "Who directed Pulp Fiction?",
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "id": 962,
+    "category": "Arts & Culture",
+    "question": "Who directed The Godfather?",
+    "answer": "Francis Ford Coppola"
+  },
+  {
+    "id": 963,
+    "category": "Arts & Culture",
+    "question": "Who directed Psycho?",
+    "answer": "Alfred Hitchcock"
+  },
+  {
+    "id": 964,
+    "category": "Arts & Culture",
+    "question": "Who directed Inception?",
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": 965,
+    "category": "Arts & Culture",
+    "question": "Who directed 2001: A Space Odyssey?",
+    "answer": "Stanley Kubrick"
+  },
+  {
+    "id": 966,
+    "category": "Arts & Culture",
+    "question": "Who created the Star Wars franchise?",
+    "answer": "George Lucas"
+  },
+  {
+    "id": 967,
+    "category": "Arts & Culture",
+    "question": "Who played Jack Dawson in Titanic?",
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "id": 968,
+    "category": "Arts & Culture",
+    "question": "Who sang “Thriller”?",
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 969,
+    "category": "Arts & Culture",
+    "question": "Which band was fronted by Freddie Mercury?",
+    "answer": "Queen"
+  },
+  {
+    "id": 970,
+    "category": "Arts & Culture",
+    "question": "In which English city did The Beatles form?",
+    "answer": "Liverpool"
+  },
+  {
+    "id": 971,
+    "category": "Arts & Culture",
+    "question": "Who won the Nobel Prize in Literature in 2016 as a singer-songwriter?",
+    "answer": "Bob Dylan"
+  },
+  {
+    "id": 972,
+    "category": "Arts & Culture",
+    "question": "Who created Mickey Mouse?",
+    "answer": "Walt Disney and Ub Iwerks"
+  },
+  {
+    "id": 973,
+    "category": "Arts & Culture",
+    "question": "Who created Sherlock Holmes?",
+    "answer": "Sir Arthur Conan Doyle"
+  },
+  {
+    "id": 974,
+    "category": "Arts & Culture",
+    "question": "Who created the detective Hercule Poirot?",
+    "answer": "Agatha Christie"
+  },
+  {
+    "id": 975,
+    "category": "Arts & Culture",
+    "question": "Who created James Bond?",
+    "answer": "Ian Fleming"
+  },
+  {
+    "id": 976,
+    "category": "Arts & Culture",
+    "question": "Who created Peter Pan?",
+    "answer": "J. M. Barrie"
+  },
+  {
+    "id": 977,
+    "category": "Arts & Culture",
+    "question": "Who wrote The Chronicles of Narnia?",
+    "answer": "C. S. Lewis"
+  },
+  {
+    "id": 978,
+    "category": "Arts & Culture",
+    "question": "Who wrote A Song of Ice and Fire?",
+    "answer": "George R. R. Martin"
+  },
+  {
+    "id": 979,
+    "category": "Arts & Culture",
+    "question": "Who wrote The Da Vinci Code?",
+    "answer": "Dan Brown"
+  },
+  {
+    "id": 980,
+    "category": "Arts & Culture",
+    "question": "Which city hosts the Nobel Peace Prize ceremony?",
+    "answer": "Oslo"
+  },
+  {
+    "id": 981,
+    "category": "Arts & Culture",
+    "question": "Which city hosts the other Nobel Prize ceremonies?",
+    "answer": "Stockholm"
+  },
+  {
+    "id": 982,
+    "category": "Arts & Culture",
+    "question": "In which country did sushi originate?",
+    "answer": "Japan"
+  },
+  {
+    "id": 983,
+    "category": "Arts & Culture",
+    "question": "Which Italian city is the birthplace of pizza?",
+    "answer": "Naples"
+  },
+  {
+    "id": 984,
+    "category": "Arts & Culture",
+    "question": "What is the main ingredient of guacamole?",
+    "answer": "Avocado"
+  },
+  {
+    "id": 985,
+    "category": "Arts & Culture",
+    "question": "What is the main ingredient of hummus?",
+    "answer": "Chickpeas"
+  },
+  {
+    "id": 986,
+    "category": "Arts & Culture",
+    "question": "Which fruit is wine made from?",
+    "answer": "Grapes"
+  },
+  {
+    "id": 987,
+    "category": "Arts & Culture",
+    "question": "Which spice comes from the crocus flower?",
+    "answer": "Saffron"
+  },
+  {
+    "id": 988,
+    "category": "Arts & Culture",
+    "question": "Which nut is the main ingredient in marzipan?",
+    "answer": "Almonds"
+  },
+  {
+    "id": 989,
+    "category": "Arts & Culture",
+    "question": "Tofu is made from which bean?",
+    "answer": "Soybeans"
+  },
+  {
+    "id": 990,
+    "category": "Arts & Culture",
+    "question": "In which country did coffee likely originate?",
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 991,
+    "category": "Arts & Culture",
+    "question": "Which language has the most native speakers?",
+    "answer": "Mandarin Chinese"
+  },
+  {
+    "id": 992,
+    "category": "Arts & Culture",
+    "question": "Which language is spoken by the most people overall?",
+    "answer": "English"
+  },
+  {
+    "id": 993,
+    "category": "Arts & Culture",
+    "question": "What is the official language of Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "id": 994,
+    "category": "Arts & Culture",
+    "question": "What is the official language of Egypt?",
+    "answer": "Arabic"
+  },
+  {
+    "id": 995,
+    "category": "Arts & Culture",
+    "question": "What is the official language of Iran?",
+    "answer": "Persian (Farsi)"
+  },
+  {
+    "id": 996,
+    "category": "Arts & Culture",
+    "question": "What is the official language of Argentina?",
+    "answer": "Spanish"
+  },
+  {
+    "id": 997,
+    "category": "Arts & Culture",
+    "question": "Which writing system is used for Russian?",
+    "answer": "Cyrillic"
+  },
+  {
+    "id": 998,
+    "category": "Arts & Culture",
+    "question": "How do you say “hello” in Spanish?",
+    "answer": "Hola"
+  },
+  {
+    "id": 999,
+    "category": "Arts & Culture",
+    "question": "How do you say “hello” in French?",
+    "answer": "Bonjour"
+  },
+  {
+    "id": 1000,
+    "category": "Arts & Culture",
+    "question": "How do you say “thank you” in French?",
+    "answer": "Merci"
+  }
+]
